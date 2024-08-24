@@ -1,0 +1,378 @@
+Variable,Description,Value,Value Label
+RESPAGE,Respondent's age,1.0,18/35
+RESPAGE,Respondent's age,2.0,36/55
+RESPAGE,Respondent's age,3.0,56+
+LIFESAT,Label not found,,
+INFOSOU1,Label not found,,
+TRUMTVINFO,Label not found,,
+FATEINLF,Please tell me which comes closest to your view?,-9.0,Break off
+FATEINLF,Please tell me which comes closest to your view?,-7.0,Legal skip
+FATEINLF,Please tell me which comes closest to your view?,-3.0,Interviewer error
+FATEINLF,Please tell me which comes closest to your view?,-2.0,Refuse to answer
+FATEINLF,Please tell me which comes closest to your view?,-1.0,Don't know
+FATEINLF,Please tell me which comes closest to your view?,1.0,Everything in life is determined by fate
+FATEINLF,Please tell me which comes closest to your view?,10.0,People shape their fate themselves
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,-9.0,Break off
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,-7.0,Legal skip
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,-3.0,Interviewer error
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,-2.0,Refuse to answer
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,-1.0,Don't know
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,0.0,Disapprove
+BUSINRUS,Do you approve or disapprove doing business with a Russian?,1.0,Approve
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,-9.0,Break off
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,-7.0,Legal skip
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,-3.0,Interviewer error
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,-2.0,Refuse to answer
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,-1.0,Don't know
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,0.0,Disapprove
+BUSINTUR,Do you approve or disapprove doing business with a Turk?,1.0,Approve
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,-9.0,Break off
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,-7.0,Legal skip
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,-3.0,Interviewer error
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,-2.0,Refuse to answer
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,-1.0,Don't know
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,0.0,Disapprove
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?,1.0,Approve
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-9.0,Break off
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-7.0,Legal skip
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-5.0,I would not wish any of these people as my neighbors
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-3.0,Interviewer error
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-2.0,Refuse to answer
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,-1.0,Don't know
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,1.0,People following a religion that is different to yours
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,2.0,People having political views that are different to yours
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,3.0,Europeans who come to live in COUNTRY and want to stay
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,4.0,Asians who come to live in COUNTRY and want to stay
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,5.0,Drug addicts
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,6.0,Homosexuals
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,7.0,Black people
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,8.0,Criminals
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?,9.0,Other
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,-9.0,Break off
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,-7.0,Legal skip
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,-3.0,Interviewer error
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,-2.0,Refuse to answer
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,-1.0,Don't know
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,1.0,A good thing
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?,2.0,A bad thing
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,-9.0,Break off
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,-7.0,Legal skip
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,-3.0,Interviewer error
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,-2.0,Refuse to answer
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,-1.0,Don't know
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,1.0,Do not support at all
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,2.0,Rather not support
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,3.0,"Partially support, partially do not support"
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,4.0,Rather support
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?,5.0,Fully support
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,-9.0,Break off
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,-7.0,Legal skip
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,-3.0,Interviewer error
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,-2.0,Refuse to answer
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,-1.0,Don't know
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,1.0,Don’t support at all
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,2.0,Rather not support
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,3.0,"Partially support, partially don’t support"
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,4.0,Rather support
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio,5.0,Fully support
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,-9.0,Break off
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,-7.0,Legal skip
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,-3.0,Interviewer error
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,-2.0,Refuse to answer
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,-1.0,Don't know
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,1.0,It will not benefit my country
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,2.0,It would restrict our independence
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,3.0,It would harm our culture and traditions
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,4.0,Peoples economic conditions would worsen
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,5.0,It would hinder our relations with the West
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,6.0,We would be less protected from foreign threats
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,7.0,There would be less chance to restore territorial integrity
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,8.0,"Everyday life will become more dangerous, less safe"
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi,9.0,Other
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,-7.0,Legal skip
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,-2.0,Refuse to answer
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,-1.0,Don't know
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,1.0,Membership in the Eurasian Union would help strengthen relations with Russia
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,2.0,We would have a better chance to restore its territorial integrity
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,3.0,People's economic conditions would improve
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,4.0,We would be better protected from foreign treats
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,5.0,Membership in the Eurasian Union would result in improved safety in everyday life
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,6.0,I would be able to travel to the Eurasian Union countries without a visa
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U,7.0,Other
+MAINFRN,Which country is currently the main friend of country?,-9.0,Break off
+MAINFRN,Which country is currently the main friend of country?,-7.0,Legal skip
+MAINFRN,Which country is currently the main friend of country?,-5.0,No one
+MAINFRN,Which country is currently the main friend of country?,-3.0,Interviewer error
+MAINFRN,Which country is currently the main friend of country?,-2.0,Refuse to answer
+MAINFRN,Which country is currently the main friend of country?,-1.0,Don't know
+MAINFRN,Which country is currently the main friend of country?,1.0,Abkhazia
+MAINFRN,Which country is currently the main friend of country?,2.0,Afganistan
+MAINFRN,Which country is currently the main friend of country?,3.0,Arabia
+MAINFRN,Which country is currently the main friend of country?,4.0,Argentina
+MAINFRN,Which country is currently the main friend of country?,5.0,Armenia
+MAINFRN,Which country is currently the main friend of country?,6.0,Australia
+MAINFRN,Which country is currently the main friend of country?,7.0,Austria
+MAINFRN,Which country is currently the main friend of country?,8.0,Azerbaijan
+MAINFRN,Which country is currently the main friend of country?,9.0,Baltic countries
+MAINFRN,Which country is currently the main friend of country?,10.0,Belgium
+MAINFRN,Which country is currently the main friend of country?,11.0,Belarus
+MAINFRN,Which country is currently the main friend of country?,12.0,Canada
+MAINFRN,Which country is currently the main friend of country?,13.0,Cyprus
+MAINFRN,Which country is currently the main friend of country?,14.0,Czech republic
+MAINFRN,Which country is currently the main friend of country?,15.0,Denmark
+MAINFRN,Which country is currently the main friend of country?,16.0,Eastern European Countries
+MAINFRN,Which country is currently the main friend of country?,17.0,Egypt
+MAINFRN,Which country is currently the main friend of country?,18.0,Estonia
+MAINFRN,Which country is currently the main friend of country?,19.0,EU
+MAINFRN,Which country is currently the main friend of country?,20.0,Finland
+MAINFRN,Which country is currently the main friend of country?,21.0,France
+MAINFRN,Which country is currently the main friend of country?,22.0,Great Britain
+MAINFRN,Which country is currently the main friend of country?,23.0,Germany
+MAINFRN,Which country is currently the main friend of country?,24.0,Greece
+MAINFRN,Which country is currently the main friend of country?,25.0,Iceland
+MAINFRN,Which country is currently the main friend of country?,26.0,India
+MAINFRN,Which country is currently the main friend of country?,27.0,Iran
+MAINFRN,Which country is currently the main friend of country?,28.0,Iraq
+MAINFRN,Which country is currently the main friend of country?,29.0,Ireland
+MAINFRN,Which country is currently the main friend of country?,30.0,Israel
+MAINFRN,Which country is currently the main friend of country?,31.0,Italy
+MAINFRN,Which country is currently the main friend of country?,32.0,Japan
+MAINFRN,Which country is currently the main friend of country?,33.0,Kazakhstan
+MAINFRN,Which country is currently the main friend of country?,34.0,Korea
+MAINFRN,Which country is currently the main friend of country?,35.0,Kyrgyztan
+MAINFRN,Which country is currently the main friend of country?,36.0,Latvia
+MAINFRN,Which country is currently the main friend of country?,37.0,Lithuania
+MAINFRN,Which country is currently the main friend of country?,38.0,Luxembourg
+MAINFRN,Which country is currently the main friend of country?,39.0,Many
+MAINFRN,Which country is currently the main friend of country?,40.0,Mexico
+MAINFRN,Which country is currently the main friend of country?,41.0,Moldova
+MAINFRN,Which country is currently the main friend of country?,42.0,Muslim countries
+MAINFRN,Which country is currently the main friend of country?,43.0,Neighbouring countries
+MAINFRN,Which country is currently the main friend of country?,44.0,Netherlands
+MAINFRN,Which country is currently the main friend of country?,45.0,Norway
+MAINFRN,Which country is currently the main friend of country?,46.0,Ossetia
+MAINFRN,Which country is currently the main friend of country?,47.0,Palestine
+MAINFRN,Which country is currently the main friend of country?,48.0,Poland
+MAINFRN,Which country is currently the main friend of country?,49.0,Portugal
+MAINFRN,Which country is currently the main friend of country?,50.0,Romania
+MAINFRN,Which country is currently the main friend of country?,51.0,Russia
+MAINFRN,Which country is currently the main friend of country?,52.0,Slovakia
+MAINFRN,Which country is currently the main friend of country?,53.0,Spain
+MAINFRN,Which country is currently the main friend of country?,54.0,Sweden
+MAINFRN,Which country is currently the main friend of country?,55.0,Switzerland
+MAINFRN,Which country is currently the main friend of country?,56.0,Syria
+MAINFRN,Which country is currently the main friend of country?,57.0,Turkey
+MAINFRN,Which country is currently the main friend of country?,58.0,UAE
+MAINFRN,Which country is currently the main friend of country?,59.0,Ukraine
+MAINFRN,Which country is currently the main friend of country?,60.0,Uruguai
+MAINFRN,Which country is currently the main friend of country?,61.0,USA
+MAINFRN,Which country is currently the main friend of country?,62.0,Uzbekistan
+MAINFRN,Which country is currently the main friend of country?,63.0,Venesuela
+MAINFRN,Which country is currently the main friend of country?,64.0,China
+MAINFRN,Which country is currently the main friend of country?,65.0,Nagorno-Karabakh
+MAINFRN,Which country is currently the main friend of country?,66.0,Sweden
+MAINFRN,Which country is currently the main friend of country?,67.0,Georgia
+MAINFRN,Which country is currently the main friend of country?,81.0,Everybody
+MAINFRN,Which country is currently the main friend of country?,82.0,Except Russia
+MAINFRN,Which country is currently the main friend of country?,83.0,Foreigners
+MAINFRN,Which country is currently the main friend of country?,84.0,Our country itself
+MAINFRN,Which country is currently the main friend of country?,85.0,Globalism
+MAINFRN,Which country is currently the main friend of country?,86.0,Local government
+MAINENEM,Which country is currently the main enemy of country?,-9.0,Break off
+MAINENEM,Which country is currently the main enemy of country?,-7.0,Legal skip
+MAINENEM,Which country is currently the main enemy of country?,-5.0,No one
+MAINENEM,Which country is currently the main enemy of country?,-3.0,Interviewer error
+MAINENEM,Which country is currently the main enemy of country?,-2.0,Refuse to answer
+MAINENEM,Which country is currently the main enemy of country?,-1.0,Don't know
+MAINENEM,Which country is currently the main enemy of country?,1.0,Abkhazia
+MAINENEM,Which country is currently the main enemy of country?,2.0,Afganistan
+MAINENEM,Which country is currently the main enemy of country?,3.0,Arabia
+MAINENEM,Which country is currently the main enemy of country?,4.0,Argentina
+MAINENEM,Which country is currently the main enemy of country?,5.0,Armenia
+MAINENEM,Which country is currently the main enemy of country?,6.0,Australia
+MAINENEM,Which country is currently the main enemy of country?,7.0,Austria
+MAINENEM,Which country is currently the main enemy of country?,8.0,Azerbaijan
+MAINENEM,Which country is currently the main enemy of country?,9.0,Baltic countries
+MAINENEM,Which country is currently the main enemy of country?,10.0,Belgium
+MAINENEM,Which country is currently the main enemy of country?,11.0,Belarus
+MAINENEM,Which country is currently the main enemy of country?,12.0,Canada
+MAINENEM,Which country is currently the main enemy of country?,13.0,Cyprus
+MAINENEM,Which country is currently the main enemy of country?,14.0,Czech republic
+MAINENEM,Which country is currently the main enemy of country?,15.0,Denmark
+MAINENEM,Which country is currently the main enemy of country?,16.0,Eastern European Countries
+MAINENEM,Which country is currently the main enemy of country?,17.0,Egypt
+MAINENEM,Which country is currently the main enemy of country?,18.0,Estonia
+MAINENEM,Which country is currently the main enemy of country?,19.0,EU
+MAINENEM,Which country is currently the main enemy of country?,20.0,Finland
+MAINENEM,Which country is currently the main enemy of country?,21.0,France
+MAINENEM,Which country is currently the main enemy of country?,22.0,Great Britain
+MAINENEM,Which country is currently the main enemy of country?,23.0,Germany
+MAINENEM,Which country is currently the main enemy of country?,24.0,Greece
+MAINENEM,Which country is currently the main enemy of country?,25.0,Iceland
+MAINENEM,Which country is currently the main enemy of country?,26.0,India
+MAINENEM,Which country is currently the main enemy of country?,27.0,Iran
+MAINENEM,Which country is currently the main enemy of country?,28.0,Iraq
+MAINENEM,Which country is currently the main enemy of country?,29.0,Ireland
+MAINENEM,Which country is currently the main enemy of country?,30.0,Israel
+MAINENEM,Which country is currently the main enemy of country?,31.0,Italy
+MAINENEM,Which country is currently the main enemy of country?,32.0,Japan
+MAINENEM,Which country is currently the main enemy of country?,33.0,Kazakhstan
+MAINENEM,Which country is currently the main enemy of country?,34.0,Korea
+MAINENEM,Which country is currently the main enemy of country?,35.0,Kyrgyztan
+MAINENEM,Which country is currently the main enemy of country?,36.0,Latvia
+MAINENEM,Which country is currently the main enemy of country?,37.0,Lithuania
+MAINENEM,Which country is currently the main enemy of country?,38.0,Luxembourg
+MAINENEM,Which country is currently the main enemy of country?,39.0,Many
+MAINENEM,Which country is currently the main enemy of country?,40.0,Mexico
+MAINENEM,Which country is currently the main enemy of country?,41.0,Moldova
+MAINENEM,Which country is currently the main enemy of country?,42.0,Muslim countries
+MAINENEM,Which country is currently the main enemy of country?,43.0,Neighbouring countries
+MAINENEM,Which country is currently the main enemy of country?,44.0,Netherlands
+MAINENEM,Which country is currently the main enemy of country?,45.0,Norway
+MAINENEM,Which country is currently the main enemy of country?,46.0,Ossetia
+MAINENEM,Which country is currently the main enemy of country?,47.0,Palestine
+MAINENEM,Which country is currently the main enemy of country?,48.0,Poland
+MAINENEM,Which country is currently the main enemy of country?,49.0,Portugal
+MAINENEM,Which country is currently the main enemy of country?,50.0,Romania
+MAINENEM,Which country is currently the main enemy of country?,51.0,Russia
+MAINENEM,Which country is currently the main enemy of country?,52.0,Slovakia
+MAINENEM,Which country is currently the main enemy of country?,53.0,Spain
+MAINENEM,Which country is currently the main enemy of country?,54.0,Sweden
+MAINENEM,Which country is currently the main enemy of country?,55.0,Switzerland
+MAINENEM,Which country is currently the main enemy of country?,56.0,Syria
+MAINENEM,Which country is currently the main enemy of country?,57.0,Turkey
+MAINENEM,Which country is currently the main enemy of country?,58.0,UAE
+MAINENEM,Which country is currently the main enemy of country?,59.0,Ukraine
+MAINENEM,Which country is currently the main enemy of country?,60.0,Uruguai
+MAINENEM,Which country is currently the main enemy of country?,61.0,USA
+MAINENEM,Which country is currently the main enemy of country?,62.0,Uzbekistan
+MAINENEM,Which country is currently the main enemy of country?,63.0,Venesuela
+MAINENEM,Which country is currently the main enemy of country?,64.0,China
+MAINENEM,Which country is currently the main enemy of country?,65.0,Nagorno-Karabakh
+MAINENEM,Which country is currently the main enemy of country?,66.0,Sweden
+MAINENEM,Which country is currently the main enemy of country?,67.0,Georgia
+MAINENEM,Which country is currently the main enemy of country?,81.0,Everybody
+MAINENEM,Which country is currently the main enemy of country?,82.0,Except Russia
+MAINENEM,Which country is currently the main enemy of country?,83.0,Foreigners
+MAINENEM,Which country is currently the main enemy of country?,84.0,Our country itself
+MAINENEM,Which country is currently the main enemy of country?,85.0,Globalism
+MAINENEM,Which country is currently the main enemy of country?,86.0,Local government
+MAINMOD,Label not found,,
+PARTYSUPP,Which political party is closest to you?,-9.0,Break off
+PARTYSUPP,Which political party is closest to you?,-7.0,Legal skip
+PARTYSUPP,Which political party is closest to you?,-5.0,There is no such party
+PARTYSUPP,Which political party is closest to you?,-3.0,Interviewer error
+PARTYSUPP,Which political party is closest to you?,-2.0,Refuse to answer
+PARTYSUPP,Which political party is closest to you?,-1.0,Don't know
+PARTYSUPP,Which political party is closest to you?,101.0,Civil Contract
+PARTYSUPP,Which political party is closest to you?,102.0,Mission Party
+PARTYSUPP,Which political party is closest to you?,103.0,Bright Armenia
+PARTYSUPP,Which political party is closest to you?,104.0,Prosperous Armenia
+PARTYSUPP,Which political party is closest to you?,105.0,Republican Party of Armenia
+PARTYSUPP,Which political party is closest to you?,106.0,Armenian Revolutionary Federation
+PARTYSUPP,Which political party is closest to you?,107.0,Free Democrats
+PARTYSUPP,Which political party is closest to you?,108.0,Hanrapetutyun Party
+PARTYSUPP,Which political party is closest to you?,109.0,Sasna Tsrer Party
+PARTYSUPP,Which political party is closest to you?,301.0,Georgian Dream
+PARTYSUPP,Which political party is closest to you?,302.0,United National Movement
+PARTYSUPP,Which political party is closest to you?,303.0,Movement for Liberty - European Georgia
+PARTYSUPP,Which political party is closest to you?,304.0,Alliance of Patriots of Georgia
+PARTYSUPP,Which political party is closest to you?,305.0,Labor Party
+PARTYSUPP,Which political party is closest to you?,306.0,Democratic Movement – United Georgia
+PARTYSUPP,Which political party is closest to you?,307.0,Political Platform New Georgia
+PARTYSUPP,Which political party is closest to you?,308.0,New Political Center – Girchi
+PARTYSUPP,Which political party is closest to you?,309.0,Free Georgia
+PARTYSUPP,Which political party is closest to you?,999.0,Other
+PARTYSUPF,Label not found,,
+WORKTYP,Which of the following best describes your status and the type of workplace?,-9.0,Break off
+WORKTYP,Which of the following best describes your status and the type of workplace?,-7.0,Legal skip
+WORKTYP,Which of the following best describes your status and the type of workplace?,-3.0,Interviewer error
+WORKTYP,Which of the following best describes your status and the type of workplace?,-2.0,Refuse to answer
+WORKTYP,Which of the following best describes your status and the type of workplace?,-1.0,Don't know
+WORKTYP,Which of the following best describes your status and the type of workplace?,1.0,"Run my own business, Self-employed without employees"
+WORKTYP,Which of the following best describes your status and the type of workplace?,2.0,"Run my own business, Self-employed with employees"
+WORKTYP,Which of the following best describes your status and the type of workplace?,3.0,Employee in a small local business
+WORKTYP,Which of the following best describes your status and the type of workplace?,4.0,Employee in a medium sized or big local business
+WORKTYP,Which of the following best describes your status and the type of workplace?,5.0,"Employee in a state organization, company, or enterprise"
+WORKTYP,Which of the following best describes your status and the type of workplace?,6.0,Employee in a foreign or international organization
+WORKTYP,Which of the following best describes your status and the type of workplace?,7.0,Employee in a local or international NGO
+WORKTYP,Which of the following best describes your status and the type of workplace?,8.0,Other
+PERSINC,Your personal monetary income last month?,-9.0,Break off
+PERSINC,Your personal monetary income last month?,-7.0,Legal skip
+PERSINC,Your personal monetary income last month?,-3.0,Interviewer error
+PERSINC,Your personal monetary income last month?,-2.0,Refuse to answer
+PERSINC,Your personal monetary income last month?,-1.0,Don't know
+PERSINC,Your personal monetary income last month?,1.0,More than USD 2000
+PERSINC,Your personal monetary income last month?,2.0,USD 1200 - 2000
+PERSINC,Your personal monetary income last month?,3.0,USD 801 – 1200
+PERSINC,Your personal monetary income last month?,4.0,USD 401 – 800
+PERSINC,Your personal monetary income last month?,5.0,USD 251 – 400
+PERSINC,Your personal monetary income last month?,6.0,USD 101 – 250
+PERSINC,Your personal monetary income last month?,7.0,USD 51– 100
+PERSINC,Your personal monetary income last month?,8.0,Up to USD 50
+PERSINC,Your personal monetary income last month?,9.0,0
+EDUYRS,Years in formal education,-9.0,Break off
+EDUYRS,Years in formal education,-7.0,Legal skip
+EDUYRS,Years in formal education,-3.0,Interviewer error
+EDUYRS,Years in formal education,-2.0,Refuse to answer
+EDUYRS,Years in formal education,-1.0,Don't know
+RFAEDUC,What is the highest level of education your father has achieved?,-9.0,Break off
+RFAEDUC,What is the highest level of education your father has achieved?,-7.0,Legal skip
+RFAEDUC,What is the highest level of education your father has achieved?,-3.0,Interviewer error
+RFAEDUC,What is the highest level of education your father has achieved?,-2.0,Refuse to answer
+RFAEDUC,What is the highest level of education your father has achieved?,-1.0,Don't know
+RFAEDUC,What is the highest level of education your father has achieved?,1.0,No primary education
+RFAEDUC,What is the highest level of education your father has achieved?,2.0,Primary education
+RFAEDUC,What is the highest level of education your father has achieved?,3.0,Incomplete secondary education
+RFAEDUC,What is the highest level of education your father has achieved?,4.0,Competed secondary education
+RFAEDUC,What is the highest level of education your father has achieved?,5.0,Secondary technical education
+RFAEDUC,What is the highest level of education your father has achieved?,6.0,Incomplete higher education
+RFAEDUC,What is the highest level of education your father has achieved?,7.0,Completed higher education
+RFAEDUC,What is the highest level of education your father has achieved?,8.0,Post-graduate degree
+RMOEDUC,What is the highest level of education your mother has achieved,-9.0,Break off
+RMOEDUC,What is the highest level of education your mother has achieved,-7.0,Legal skip
+RMOEDUC,What is the highest level of education your mother has achieved,-3.0,Interviewer error
+RMOEDUC,What is the highest level of education your mother has achieved,-2.0,Refuse to answer
+RMOEDUC,What is the highest level of education your mother has achieved,-1.0,Don't know
+RMOEDUC,What is the highest level of education your mother has achieved,1.0,No primary education
+RMOEDUC,What is the highest level of education your mother has achieved,2.0,Primary education
+RMOEDUC,What is the highest level of education your mother has achieved,3.0,Incomplete secondary education
+RMOEDUC,What is the highest level of education your mother has achieved,4.0,Competed secondary education
+RMOEDUC,What is the highest level of education your mother has achieved,5.0,Secondary technical education
+RMOEDUC,What is the highest level of education your mother has achieved,6.0,Incomplete higher education
+RMOEDUC,What is the highest level of education your mother has achieved,7.0,Completed higher education
+RMOEDUC,What is the highest level of education your mother has achieved,8.0,Post-graduate degree
+RELGNEW,Label not found,,
+RELIMP,How important is religion in your daily life?,-9.0,Break off
+RELIMP,How important is religion in your daily life?,-7.0,Legal skip
+RELIMP,How important is religion in your daily life?,-3.0,Interviewer error
+RELIMP,How important is religion in your daily life?,-2.0,Refuse to answer
+RELIMP,How important is religion in your daily life?,-1.0,Don't know
+RELIMP,How important is religion in your daily life?,1.0,Not at all important
+RELIMP,How important is religion in your daily life?,2.0,Not very important
+RELIMP,How important is religion in your daily life?,3.0,Rather important
+RELIMP,How important is religion in your daily life?,4.0,Very important
+ECONSTN,Current economic situation of your household:,-9.0,Break off
+ECONSTN,Current economic situation of your household:,-7.0,Legal skip
+ECONSTN,Current economic situation of your household:,-3.0,Interviewer error
+ECONSTN,Current economic situation of your household:,-2.0,Refuse to answer
+ECONSTN,Current economic situation of your household:,-1.0,Don't know
+ECONSTN,Current economic situation of your household:,1.0,Money is not enough for food
+ECONSTN,Current economic situation of your household:,2.0,"Money is enough for food only, but not for clothes"
+ECONSTN,Current economic situation of your household:,3.0,"Money is enough for food and clothes, but not enough for expensive durables"
+ECONSTN,Current economic situation of your household:,4.0,We can afford to buy some expensive durables
+ECONSTN,Current economic situation of your household:,5.0,We can afford to buy anything we need
+MONYTOT,HH monetary income last month,-9.0,Break off
+MONYTOT,HH monetary income last month,-7.0,Legal skip
+MONYTOT,HH monetary income last month,-3.0,Interviewer error
+MONYTOT,HH monetary income last month,-2.0,Refuse to answer
+MONYTOT,HH monetary income last month,-1.0,Don't know
+MONYTOT,HH monetary income last month,1.0,More than USD 2000
+MONYTOT,HH monetary income last month,2.0,USD 1200 - 2000
+MONYTOT,HH monetary income last month,3.0,USD 801 – 1200
+MONYTOT,HH monetary income last month,4.0,USD 401 – 800
+MONYTOT,HH monetary income last month,5.0,USD 251 – 400
+MONYTOT,HH monetary income last month,6.0,USD 101 – 250
+MONYTOT,HH monetary income last month,7.0,USD 51– 100
+MONYTOT,HH monetary income last month,8.0,Up to USD 50
+MONYTOT,HH monetary income last month,9.0,0

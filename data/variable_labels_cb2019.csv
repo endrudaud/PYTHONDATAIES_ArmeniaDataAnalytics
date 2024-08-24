@@ -1,0 +1,664 @@
+Variable,Description
+CBYEAR,Year
+COUNTRY,Country
+ID,Case ID
+RESPONSE,Response
+AAPOR,AAPOR disposition code
+SETTYPE,Stratum
+INDWT,Weight for individual-level questions
+RESPSEX,Respondent's sex
+RESPAGE,Respondent's age
+AGEGROUP,Age groups
+ACTCHORE,Helped a neighbor or a friend with some household chores or childcare?
+ACTRESDT,Helped someone to resolve a dispute?
+ACTCLEAN,Helped cleaning public space?
+ACTTHEA,Went to a theatre or cinema?
+ACTREST,Went to a restaurant?
+ACTVLNT,Did volunteer work without expecting compensation?
+ACTCOMM,Made a comment online?
+ACTDNCH,Donated money to a church or mosque?
+ACTNRCHN,Donated money to a nonreligious charity?
+ACTPBLM,Attended a public meeting?
+ACTSPET,"Signed a petition or a demand, request?"
+ACTDON,Made a donation to a trustworthy organization
+RATEHAP,How happy would you say you are?
+EMONOW,How do you feel now?
+GALLTRU,Most people can be trusted or you cannot be too careful?
+CIGAVGD,"On average, how many cigarettes do you smoke per day?"
+HLTHRAT,"Overall, how would you rate your health?"
+DISCPRPR,How often do you discuss private problems with your close relatives and friends?
+BUSINUSA,Do you approve or disapprove doing business with an American?
+BUSINARM,Do you approve or disapprove doing business with an Armenian?
+BUSINAZE,Do you approve or disapprove doing business with an Azerbaijani?
+BUSINITA,Do you approve or disapprove doing business with an Italian?
+BUSINARA,Do you approve or disapprove doing business with an Arab?
+BUSINGEO,Do you approve or disapprove doing business with a Georgian?
+BUSINIRA,Do you approve or disapprove doing business with an Iranian?
+BUSINJEW,Do you approve or disapprove doing business with a Jew?
+BUSINKUR,"Do you approve or disapprove doing business with a Kurd, Yezidi?"
+BUSINRUS,Do you approve or disapprove doing business with a Russian?
+BUSINTUR,Do you approve or disapprove doing business with a Turk?
+BUSINUKR,Do you approve or disapprove doing business with a Ukrainian?
+BUSININD,Do you approve or disapprove doing business with an Indian?
+BUSINMOL,Do you approve or disapprove doing business with an Molokans?
+BUSINABK,Do you approve or disapprove doing business with an Abkhaz?
+BUSINOSS,Do you approve or disapprove doing business with an Ossetian?
+BUSINARG,Do you approve or disapprove doing business with an Armenian living in Georgia?
+BUSINAZG,Do you approve or disapprove doing business with an Azerbaijani living in Georgi
+BUSINJW,Whether you approve or disapprove people doing business with a Jehovah's Witness
+BUSINGA,Whether you approve or disapprove of people doing business with a homosexual?
+MARWUSA,Approve or disapprove of women of your ethnicity marrying an American?
+MARWARM,Approve or disapprove of women of your ethnicity marrying an Armenian?
+MARWAZE,Approve or disapprove of women of your ethnicity marrying an Azerbaijani?
+MARWITA,Approve or disapprove of women of your ethnicity marrying an Italian?
+MARWARA,Approve or disapprove of women of your ethnicity marrying an Arab?
+MARWGEO,Approve or disapprove of women of your ethnicity marrying a Georgian?
+MARWIRA,Approve or disapprove of women of your ethnicity marrying an Iranian?
+MARWJEW,Approve or disapprove of women of your ethnicity marrying a Jew?
+MARWKUR,"Approve or disapprove of women of your ethnicity marrying a Kurd, Yezidi?"
+MARWRUS,Approve or disapprove of women of your ethnicity marrying a Russian?
+MARWTUR,Approve or disapprove of women of your ethnicity marrying a Turk?
+MARWUKR,Approve or disapprove of women of your ethnicity marrying a Ukrainian?
+MARWIND,Approve or disapprove of women of your ethnicity marrying an Indian?
+MARWMOL,Would you approve or disapprove of women of your ethnicity marrying a Molokan?
+MARWABK,Approve or disapprove of women of your ethnicity marrying an Abkhaz?
+MARWOSS,Approve or disapprove of women of your ethnicity marrying an Ossetian?
+MARWARG,Approve or disapprove of women of your ethnicity marrying Armenian living in Geo
+MARWAZG,Approve or disapprove of women of your ethnicity marrying Azerbaijani living in
+MARWJW,Approve or disapprove of people like you marrying a Jehovah's Witness?
+CLRLABR,Do you have a close relative currently living abroad?
+RELLVAE,Close relative in UAE
+RELLVAF,Close relative in Afganistan
+RELLVAG,Close relative in Argentina
+RELLVAM,Close relative in Armenia
+RELLVAT,Close relative in Austria
+RELLVAU,Close relative in Australia
+RELLVAZ,Close relative in Azerbaijan
+RELLVBE,Close relative in Belgium
+RELLVBG,Close relative in Bulgaria
+RELLVBR,Close relative in Brasil
+RELLVBY,Close relative in Belarus
+RELLVCA,Close relative in Canada
+RELLVCH,Close relative in Switzerland
+RELLVCN,Close relative in China
+RELLVCUK,Close relative in UK
+RELLVCY,Close relative in Cyprus
+RELLVCZ,Close relative in Czech republic
+RELLVDE,Close relative in Germany
+RELLVDK,Close relative in Denmark
+RELLVEE,Close relative in Estonia
+RELLVES,Close relative in Spain
+RELLVEU,Close relative in EU
+RELLVFR,Close relative in France
+RELLVGE,Close relative in Georgia
+RELLVGR,Close relative in Greece
+RELLVGU,Close relative in Guinea
+RELLVHU,Close relative in Hungary
+RELLVIC,Close relative in Iceland
+RELLVID,Close relative in India
+RELLVIE,Close relative in Ireland
+RELLVIL,Close relative in Israel
+RELLVIQ,Close relative in Iraq
+RELLVIR,Close relative in Iran
+RELLVIT,Close relative in Italy
+RELLVJO,Close relative in Jordan
+RELLVKG,Close relative in Kyrgyztan
+RELLVKZ,Close relative in Kazakhstan
+RELLVLT,Close relative in Lithuania
+RELLVLV,Close relative in Latvia
+RELLVMD,Close relative in Moldova
+RELLVMX,Close relative in Mexico
+RELLVND,Close relative in Netherlands
+RELLVNO,Close relative in Norway
+RELLVPL,Close relative in Poland
+RELLVPS,Close relative in Palestine
+RELLVPT,Close relative in Portugal
+RELLVQA,Close relative in Qatar
+RELLVRS,Close relative in Serbia
+RELLVRU,Close relative in Russia
+RELLVSA,Close relative in Arabia
+RELLVSE,Close relative in Sweden
+RELLVSG,Close relative in Singapore
+RELLVSY,Close relative in Syria
+RELLVTM,Close relative in Turkmenistan
+RELLVTR,Close relative in Turkey
+RELLVUA,Close relative in Ukraine
+RELLVUK,Close relative in Great Britain
+RELLVUS,Close relative in USA
+RELLVUZ,Close relative in Uzbekistan
+CLFRDAB,Do you have any close friends currently living abroad?
+FRNDLVAB,Close friend in Abkhazia
+FRNDLVAE,Close friend in UAE
+FRNDLVAF,Close friend in Afganistan
+FRNDLVAM,Close friend in Armenia
+FRNDLVAR,Close friend in Argentina
+FRNDLVAT,Close friend in Austria
+FRNDLVAU,Close friend in Australia
+FRNDLVAZ,Close friend in Azerbaijan
+FRNDLVBE,Close friend in Belgium
+FRNDLVBY,Close friend in Belarus
+FRNDLVCA,Close friend in Canada
+FRNDLVCH,Close friend in Switzerland
+FRNDLVCZ,Close friend in Czech republic
+FRNDLVDE,Close friend in Germany
+FRNDLVDK,Close friend in Denmark
+FRNDLVEE,Close friend in Estonia
+FRNDLVES,Close friend in Spain
+FRNDLVEU,Close friend in EU
+FRNDLVFR,Close friend in France
+FRNDLVGE,Close friend in Georgia
+FRNDLVGR,Close friend in Greece
+FRNDLVIE,Close friend in Ireland
+FRNDLVIL,Close friend in Israel
+FRNDLVIQ,Close friend in Iraq
+FRNDLVIR,Close friend in Iran
+FRNDLVIS,Close friend in Iceland
+FRNDLVIT,Close friend in Italy
+FRNDLVJP,Close friend in Japan
+FRNDLVKR,Close friend in Korea
+FRNDLVKZ,Close friend in Kazakhstan
+FRNDLVLB,Close friend in Lebanon
+FRNDLVLT,Close friend in Lithuania
+FRNDLVLV,Close friend in Latvia
+FRNDLVLX,Close friend in Luxembourg
+FRNDLVMD,Close friend in Moldova
+FRNDLVND,Close friend in Netherlands
+FRNDLVNO,Close friend in Norway
+FRNDLVPL,Close friend in Poland
+FRNDLVPT,Close friend in Portugal
+FRNDLVRO,Close friend in Romania
+FRNDLVRU,Close friend in Russia
+FRNDLVSE,Close friend in Sweden
+FRNDLVSK,Close friend in Slovakia
+FRNDLVSY,Close friend in Syria
+FRNDLVTM,Close friend in Turkmenistan
+FRNDLVTR,Close friend in Turkey
+FRNDLVUA,Close friend in Ukraine
+FRNDLVUK,Close friend in Great Britain
+FRNDLVUS,Close friend in USA
+FRNDLVUU,Close friend in Uruguai
+FRNDLVUY,Close friend in Uruguay
+FRNDLVUZ,Close friend in Uzbekistan
+FATEINLF,Please tell me which comes closest to your view?
+NEIGHBOR,Which of these people would you not wish to have your neighbors most?
+NEIGHOTH,Which of these people would you not wish to have your neighbors most? Other spec
+ACCVODK,What age do you think it is acceptable for a woman to drink strong alcohol
+ACCTOBA,What age do you think it is acceptable for a woman to smoke tobacco
+ACCSEPL,What age is acceptable for woman to live separately from parents before marriage
+ACCSEBM,What age is acceptable for a woman to have sexual relations before marriage
+ACCMARR,What age do you think it is acceptable for a woman to get married
+ACCCOHB,What age is acceptable for a woman to cohabit with a man without marriage
+GENBREA,Who should normally be the breadwinner in families in COUNTRY – a man or a woman
+GENBRER,"Majority of families in Georgia today, who is the breadwinner–a man or a woman?"
+IDEALNCH,What is the ideal number of children per family in COUNTRY?
+GNDPREF,"If a family has one child, what would be the preferred gender of the child?"
+CAREPRNTS,"In your opinion, who should take care of parents more ?"
+APTINHERT,The household only owns one apartment.Who should inherit the apartment?
+APTINHOTH,The household only owns one apartment. Who should inherit the apartment? Other
+TRUPOLLRN,Do you trust or distrust the results of public opinion polls?
+TRUOS,"Please, tell me, in general, how much do you trust or distrust the information p"
+POLDIRN,Which direction domestic politics of the country are going?
+CNTPROS,Which of the following statements you agree with and to what extent?
+IMPISS1,What do you think is the most important issue facing COUNTRY at the moment?
+IMPISS1O,The most important issue facing COUNTRY at the moment? Other specified
+IMPISS2,And the second most important issue facing COUNTRY at the moment?
+IMPISS2O,The second most important issue facing COUNTRY at the moment? Other specified
+REVPARTP,Have you participated in the events of April 2018 in the following ways? Partici
+REVPARTBR,Have you participated in the events of April 2018 in the following ways? Blockin
+REVPARTG,Have you participated in the events of April 2018 in the following ways? Blockin
+REVPARTS,Have you participated in the events of April 2018 in the following ways? Joining
+REVPARTD,Have you participated in the events of April 2018 in the following ways? Publish
+REVPARTF,Have you participated in the events of April 2018 in the following ways? Followi
+REVPARTOT,Have you participated in the events of April 2018 in the following ways? Other
+REVPARTOTS,Have you participated in the events of April 2018 in the following ways? Other s
+REVEXP1,What kind of expectations did you have from the events (known as “Velvet Revol
+REVEXP2,To what extent have your expectations been met in regards to the events (known a
+REFLANG,Making the teaching of university courses on “Armenian language” and “Arme
+REFCRC,Removing the “History of Armenian church” course from the curriculum of publ
+REFRET,Possibility for early retirement of the constitutional court members
+REFVET,Examining the conscientiousness of the judges (vetting)
+REFIST,Adaptation of the Istanbul Convention (“Convention on preventing and combating
+REFINT,Reduction of income tax rate
+REFHLT,"Mandatory health insurance, with a 6% taxation from salaries"
+REFREF,Constitutional Referendum
+ISTTEXT,Have you read the Istanbul Convention text?
+TRUHLTH,How much do you trust or distrust healthcare system?
+TRUBANK,How much do you trust or distrust banks?
+TRUEDUC,How much do you trust or distrust educational system?
+TRUARMY,How much do you trust or distrust army?
+TRUCRTS,How much do you trust or distrust court system?
+TRUNGOS,How much do you trust or distrust NGOs?
+TRUPARL,How much do you trust or distrust parliament?
+TRUEXEC,How much do you trust or distrust executive government?
+TRUPRES,How much do you trust or distrust president?
+TRUPOLI,How much do you trust or distrust police?
+TRUPPS,How much do you trust or distrust political parties?
+TRUMEDI,How much do you trust or distrust media?
+TRULOCG,How much do you trust or distrust local government?
+TRURELI,How much do you trust or distrust religious institutions?
+TRUOMB,How much do you trust or distrust ombudsman?
+TRUSTEU,How much do you trust or distrust EU?
+TRUSTUN,How much do you trust or distrust UN?
+QUALINF,How well TVs inform the population about what is actually going on in COUNTRY?
+FREESPK,Do people like yourself have the right to openly say what they think?
+FAIRTRT,Are people like yourself treated fairly by the government?
+LPROS,To what extent do you approve the persecution/prosecution of the representatives
+GOVTROL,Government as a parent vs Government as an employee
+OBJCOUR,"Courts favor some citizens over others, or treat all citizens equally?"
+PROTEST,People should vs should not participate in protest actions
+PARTYSUPP,Which political party is closest to you?
+PARTYSUPO,Which political party is closest to you? Other specified
+PARTYSUPS,Towards which political party do you have the most sympathy for?
+PARTYSUSO,Towards which political party do you have the most sympathy for? Other specified
+VOTPRCP,Would you participate in the national elections next Sunday?
+VOTLELE,"Did you vote in the Parliamentary elections on December 9, 2018?"
+VOTLEL1,"Did you vote in the first round of Presidential elections on October 28, 2018?"
+VOTLEL2,"Did you vote in the second round of Presidential elections in November 28,2018?"
+ELCOND,Would you say that those elections were conducted…
+NATOSUPP,To what extent would you support countrys membership in NATO?
+NATNSUPW,What is the main reason you would not support COUNTRY's membership in NATO?
+NATNSUPO,What is the main reason you would not support COUNTRY's membership in NATO? Othe
+NATOSUPW,What is the main reason you would support COUNTRY's membership in NATO?
+NATOSUPO,What is the main reason you would support COUNTRY's membership in NATO? Other sp
+EUSUPP,To what extent would you support COUNTRY's membership in the European Union?
+EUNSUPW,What is the main reason you would not support COUNTRY's membership in the EU?
+EUNSUPO,What is the main reason you would not support COUNTRY's membership in the EU? Ot
+EUSUPWHY,What is the main reason you would support COUNTRY's membership in the EU?
+EUSUPWHO,What is the main reason you would support COUNTRY's membership in the EU? Other
+EEUSUPNA,To what extent do you support Armenia’s membership in the Eurasian Economic Unio
+EEUNSUW,What is the main reason you would not support Armenia's membership in the Eurasi
+EEUNSUWO,What is the main reason you would not support Armenia's membership in the Eurasi
+EEUSUPW,What is the main reason you would support Armenia's membership in the Eurasian U
+EEUSUPWO,What is the main reason you would support Armenia's membership in the Eurasian U
+COOPEU,Assessment of the results of Armenia's cooperation with the EU
+COOPNATO,Assessment of the results of Armenia's cooperation with NATO
+COOPEEU,Assessment of the results of Armenia's membership into EEU
+COOPCSTO,Assessment of the results of Armenia's membership into CSTO
+RUBETEUN,COUNTRY benefits more if says no to EU-NATO at the expence relations with Russia
+MAINFRN,Which country is currently the main friend of country?
+MAINENEM,Which country is currently the main enemy of country?
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for COUNTRY?
+USSRPOIN,Dissolution of USSR a good thing: COUNTRY became independent
+USSRPOWE,Dissolution of USSR a good thing: We have a chance to get closer to the West
+USSRPOCU,Dissolution of USSR a good thing: Opportunity for our culture to flourish
+USSRPOHR,Dissolution of USSR a good thing: Human rights are protected
+USSRPOCM,Dissolution of USSR a good thing: People can start business/commertial activity
+USSRPOFO,Dissolution of USSR a good thing: Wider selection of consumer goods and food
+USSRPOEL,Dissolution of USSR a good thing: We can elect our own government
+USSRPOEX,Dissolution of USSR a good thing: People can openly express their opinions
+USSRPOTR,Dissolution of USSR a good thing: We can travel abroad
+USSRPOLN,"Dissolution of USSR a good thing: We can better sustain our language, uniqueness"
+USSRPOOT,Dissolution of USSR a good thing: Other
+USSRPOOTS,Dissolution of USSR a good thing: Other specified
+USSRNEEC,Dissolution of USSR a bad thing: People's economic situation has worsened
+USSRNETI,Dissolution of USSR a bad thing: Ties with friends and relatives were severed
+USSRNEGHA,"Dissolution of USSR a bad thing: People started judging others,because identity"
+USSRNTRA,Dissolution of USSR a bad thing: Harder to travel in republics of former USSR
+USSRNEWA,Dissolution of USSR a bad thing: War started in [Abkhazia and South Ossetia] | [
+USSRNECC,Dissolution of USSR a bad thing: Civil war started inside of COUNTRY
+USSRNESS,"Dissolution of USSR a bad thing:Services such healthcare,education are not free"
+USSRNEWK,Dissolution of USSR a bad thing: The number of workplaces has declined
+USSRNETR,Dissolution of USSR a bad thing: Our country has lost territories
+USSRNEIN,Dissolution of USSR a bad thing: The gap between rich and poor has deepened
+USSRNEOT,Dissolution of USSR a bad thing: Other
+ICITLAW,Important for a good citizen: always obey laws?
+ICITGOV,Important for a good citizen: support the government on every occasion?
+ICITVOTE,Important for a good citizen: vote in elections?
+ICITTRAD,Important for a good citizen: protect traditions?
+IMPGCVW,Important for a good citizen: do volunteer work?
+ICITHELP,Important for a good citizen: support people who are worse off than themselves?
+ICITOPP,Important for a good citizen: be critical towards the government?
+USSRNEOO,Dissolution of USSR a bad thing: Other specified
+CNTRDEM,How much of a democracy is COUNTRY today?
+ATTDEM,Which of these three statements is closest to your opinion?
+ECOINVEST,Which of the following statements do you agree with?
+AMULSAR,Do you approve the Amulsar mining project?
+GLWARM,Do you think the global warming has an impact on Armenia?
+ENVPROBAP,Main environmental issue in Armenia: Air pollution
+ENVPROBSEV,Main environmental issue in Armenia: Pollution and misuse of lake Sevan and othe
+ENVPROBPL,Main environmental issue in Armenia: Misuse of plastic
+ENVPROBTW,Main environmental issue in Armenia: Poor trash and waste management (misuse of
+ENVPROBTR,Main environmental issue in Armenia: Heavy traffic
+ENVPROBGMF,Main environmental issue in Armenia: Genetically modified food
+ENVPROBCC,Main environmental issue in Armenia: Climate change
+ENVPROBOZ,Main environmental issue in Armenia: Ozone layer depletion
+ENVPROBEC,Main environmental issue in Armenia: Misuse of Earth's crust
+ENVPROBEA,Main environmental issue in Armenia: Extinction of animal species
+ENVPROBRW,Main environmental issue in Armenia: Radioactive waste
+ENVPROBOT,Main environmental issue in Armenia: Other
+ENVPROBO,Main environmental issue in Armenia: Other specified
+NK4_1,How likely is it to find a solution to the Nagorno-Karabakh conflict through pea
+NK4_2,How likely is it to find a solution to the Nagorno-Karabakh conflict through for
+NK5AR_1,To what extent do you accept having Nagorno-Karabakh as a formal part of Armenia
+NK5AR_2,To what extent do you accept having Nagorno-Karabakh as an independent country
+NK5AR_3,To what extent do you accept creating a special administrative region that will
+NK5AR_4,To what extent do you accept having Nagorno-Karabakh with a high degree of auton
+NK5AR_5,To what extent do you accept having Nagorno-Karabakh in Azerbaijan without auton
+GERUAVO,Agree/disagree: the 2008 war between Russia and Georgia could have been avoided?
+WARSTRT,"In your opinion, which side started the war in August, 2008?"
+WARSTRO,"In your opinion, which side started the war in August, 2008? Other specified"
+RESABKH,Have you heard about conflict in Abkhazia?
+ABKGNOA,"To what extent do you accept:Abkhazia as formal part of Georgia,without autonomy"
+ABKGHIA,To what extent do you accept:Abkhazia with a high autonomy degree within Georgia
+ABKGCONF,To what extent do you accept:Confederation state between Georgia and Abkhazia
+ABKGIND,To what extent do you accept:Abkhazia as an independent country
+ABKGRUS,To what extent do you accept:Abkhazia as a formal part of Russia
+RESRSOC,Have you heard about conflict in South Ossetia?
+SOGNOA,"To what extent do you accept:South Ossetia as a part of Georgia,without autonomy"
+SOGHIA,To what extent do you accept:South Ossetia - high autonomy degree within Georgia
+SOGCONF,To what extent do you accept:Confederation between Georgia and South Ossetia
+SOGIND,To what extent do you accept:South Ossetia as an independent country
+SOGRUS,To what extent do you accept:South Ossetia as a formal part of Russia
+EMPLSIT,Which of the following best describes your primary activity or situation?
+UNEMYRS,From which year have you not had a job?
+INTSTJOB,"Are you currently interested in a job, or not?"
+LOOKJOB,"Have you been looking for a job during the past four weeks, or not?"
+JOBSTART,Would you be able to start working within the next 14 days?
+WORKTYP,Which of the following best describes your status and the type of workplace?
+WORKYRS,From which year have you been working at this workplace?
+WORKSEC,Which of the following best describes the sector in which you work?
+JOBSARFN,"Overall, how satisfied or dissatisfied are you with your job?"
+ILOLFC1,Did you help without being paid in any kind of business run by your household?
+ILOLFC2,"In the last week did you work for a wage, salary, commission or any payment"
+PERSINC,Your personal monetary income last month?
+GETJOBF,Which factor do you consider most important for getting a good job?
+NEWHHJOB,Has anybody in your household started a new job during the last 12 months?
+JOBLOST,Has anybody in your household lost job during the last 12 months?
+BANKACC,Do you have a bank account or a bank card?
+FEELDEBR,"In 2018, Government annulled certain part of loans. How do you feel about this?"
+BENFDEBY,Did you benefit from debt relief program?
+BENFDEBF,Did your family member benefit from debt relief program?
+BENFDEBA,Did your acquaintances benefit from debt relief program?
+ETHNIC,Which ethnic group do you consider yourself a part of?
+EDUYRS,Years in formal education
+RESPEDU,What is the highest level of education you have achieved to date?
+RFAEDUC,What is the highest level of education your father has achieved?
+RMOEDUC,What is the highest level of education your mother has achieved
+FLMANDSC,Which foreign language should be mandatory in secondary schools?
+FLMANDSO,Which foreign language should be mandatory in secondary schools? Other specified
+KNOWRUS,Ability in Russian
+KNOWENG,Ability in English
+KNOWOTH,Ability in other foreign language
+COMPABL,Ability in computer
+SECNDLAAP,Second language used in everyday life-Abkhaz
+SECNDLAAR,Second language used in everyday life-Arabic
+SECNDLAHY,Second language used in everyday life-Armenian
+SECNDLAAS,Second language used in everyday life-Assyrian
+SECNDLAAZ,Second language used in everyday life-Azerbaijani
+SECNDLAAV,Second language used in everyday life-Avar
+SECNDLANGKA,Second language used in everyday life-Georgian
+SECNDLANHE,Second language used in everyday life-Greek
+SECNDLAEN,Second language used in everyday life-English
+SECNDLAZA,Second language used in everyday life-Kurdish languages
+SECNDLAMR,Second language used in everyday life-Mingrelian
+SECNDLAOS,Second language used in everyday life-Ossetian
+SECNDLAOT,Second language used in everyday life-Other
+SECNDLARU,Second language used in everyday life-Russian
+SECNDLASV,Second language used in everyday life-Svan
+SECNDLATR,Second language used in everyday life-Turkish
+SECNDLAOO,Second language used in everyday life-Other specified
+FRQINTR,How often do you use the Internet?
+INTACEM,Most frequent Internet activity: Emails
+INTASKY,Most frequent Internet activity: Skype
+INTACFB,Most frequent Internet activity: Facebook
+INTACSN,Most frequent Internet activity: Other social networking
+INTACFD,Most frequent Internet activity: Forum discussions
+INTACBL,Most frequent Internet activity: Blogs
+INTACIN,Most frequent Internet activity: Search for information
+INTACSH,Most frequent Internet activity: Shopping
+INTACNW,Most frequent Internet activity: News
+INTACEN,"Most frequent Internet activity: Music, videos, movies"
+INTAGAME,Most frequent Internet activity: Play online games
+INTABET,"Most frequent Internet activity: Gambling, betting"
+INTACDW,Most frequent Internet activity: Visit dating websites
+INTACOT,Most frequent Internet activity: Other
+INTACOO,Most frequent Internet activity: Other specified
+GAMSOC,Do you think gambling/betting has a negative impact on our society?
+GAMGOV,Do you think gambling advertising on social media and other platforms should be
+GAMIND,"Speaking about the past 12 months, have you gambled or placed a bet?"
+RELGION,"Which religion or denomination, if any, do you consider yourself belong to?"
+RELSERV,How often do you attend religious services?
+RELFAST,How often do you fast when it is required by your religion?
+RELIMP,How important is religion in your daily life?
+EMIGRAT,"If you had a chance, would you leave forever to live somewhere else?"
+MIGSHRT,Would you leave for a certain period of time to live somewhere else?
+LIVEREG,Are you registered in a place where you live now?
+RESPDOB,Respondent's year of birth
+RESPPOB,Respondent's place of birth
+RESPEMP,Are you currently employed?
+RESPTRW,Has respondent traveled for work outside settlement?
+RESPTRP,Respondent's travel place for work (inside country)
+RESPTRA,Has respondent traveled for work abroad?
+RESPTAP,Respondent's travel place for work (abroad)
+RESPMAR,What is your current marital status?
+RESPMRAGE,Respondent's age when s/he got married
+HHM2RELR,Second HH member: relationship to the respondent
+HHM2SEX,Second HH member: gender
+HHM2DOB,Second HH member: year of birth
+HHM2POB,Second HH member: place of birth
+HHM2EMP,Second HH member: employed?
+HHM2TRW,Has 2nd HH member traveled for work outside settlement?
+HHM2TRP,2nd HH member's travel place for work (inside country)
+HHM2TRA,Has 2nd HH member traveled for work abroad?
+HHM2TAP,2nd HH member's travel place for work (abroad)
+HHM2MAR,Second HH member: marital status
+HHM2MRAGE,2nd HH member: Age when s/he got married
+HHM2EDU,2nd HH member: Level of education achieved to date
+HHM3RELR,Third HH member: relationship to the respondent
+HHM3SEX,Third HH member: gender
+HHM3DOB,Third HH member: year of birth
+HHM3POB,Third HH member: place of birth
+HHM3EMP,Third HH member: employed?
+HHM3TRW,Has 3rd HH member traveled for work outside settlement?
+HHM3TRP,3rd HH member's travel place for work (inside country)
+HHM3TRA,Has 3rd HH member traveled for work abroad?
+HHM3TAP,3rd HH member's travel place for work (abroad)
+HHM3MAR,Third HH member: marital status
+HHM3MRAGE,3rd HH member: Age when s/he got married
+HHM3EDU,3rd HH member: Level of education achieved to date
+HHM4RELR,4th HH member: relationship to the respondent
+HHM4SEX,4th HH member: gender
+HHM4DOB,4th HH member: year of birth
+HHM4POB,4th HH member: place of birth
+HHM4EMP,4th HH member: employed?
+HHM4TRW,Has 4th HH member traveled for work outside settlement?
+HHM4TRP,4th HH member's travel place for work (inside country)
+HHM4TRA,Has 4th HH member traveled for work abroad?
+HHM4TAP,4th HH member's travel place for work (abroad)
+HHM4MAR,4th HH member: marital status
+HHM4MRAGE,4th HH member: Age when s/he got married
+HHM4EDU,4th HH member: Level of education achieved to date
+HHM5RELR,5th HH member: relationship to the respondent
+HHM5SEX,5th HH member: gender
+HHM5DOB,5th HH member: year of birth
+HHM5POB,5th HH member: place of birth
+HHM5EMP,5th HH member: employed?
+HHM5TRW,Has 5th HH member traveled for work outside settlement?
+HHM5TRP,5th HH member's travel place for work (inside country)
+HHM5TRA,Has 5th HH member traveled for work abroad?
+HHM5TAP,5th HH member's travel place for work (abroad)
+HHM5MAR,5th HH member: marital status
+HHM5MRAGE,5th HH member: Age when s/he got married
+HHM5EDU,5th HH member: Level of education achieved to date
+HHM6RELR,6th HH member: relationship to the respondent
+HHM6SEX,6th HH member: gender
+HHM6DOB,6th HH member: year of birth
+HHM6POB,6th HH member: place of birth
+HHM6EMP,6th HH member: employed?
+HHM6TRW,Has 6th HH member traveled for work outside settlement?
+HHM6TRP,6th HH member's travel place for work (inside country)
+HHM6TRA,Has 6th HH member traveled for work abroad?
+HHM6TAP,6th HH member's travel place for work (abroad)
+HHM6MAR,6th HH member: marital status
+HHM6MRAGE,6th HH member: Age when s/he got married
+HHM6EDU,6th HH member: Level of education achieved to date
+HHM7RELR,7th HH member: relationship to the respondent
+HHM7SEX,7th HH member: gender
+HHM7DOB,7th HH member: year of birth
+HHM7POB,7th HH member: place of birth
+HHM7EMP,7th HH member: employed?
+HHM7TRW,Has 7th HH member traveled for work outside settlement?
+HHM7TRP,7th HH member's travel place for work (inside country)
+HHM7TRA,Has 7th HH member traveled for work abroad?
+HHM7TAP,7th HH member's travel place for work (abroad)
+HHM7MAR,7th HH member: marital status
+HHM7MRAGE,7th HH member: Age when s/he got married
+HHM7EDU,7th HH member: Level of education achieved to date
+HHM8RELR,8th HH member: relationship to the respondent
+HHM8SEX,8th HH member: gender
+HHM8DOB,8th HH member: year of birth
+HHM8POB,8th HH member: place of birth
+HHM8EMP,8th HH member: employed?
+HHM8TRW,Has 8th HH member traveled for work outside settlement?
+HHM8TRP,8th HH member's travel place for work (inside country)
+HHM8TRA,Has 8th HH member traveled for work abroad?
+HHM8TAP,8th HH member's travel place for work (abroad)
+HHM8MAR,8th HH member: marital status
+HHM8MRAGE,8th HH member: Age when s/he got married
+HHM8EDU,8th HH member: Level of education achieved to date
+HHM9RELR,9th HH member: relationship to the respondent
+HHM9SEX,9th HH member: gender
+HHM9DOB,9th HH member: year of birth
+HHM9POB,9th HH member: place of birth
+HHM9EMP,9th HH member: employed?
+HHM9TRW,Has 9th HH member traveled for work outside settlement?
+HHM9TRP,9th HH member's travel place for work (inside country)
+HHM9TRA,Has 9th HH member traveled for work abroad?
+HHM9TAP,9th HH member's travel place for work (abroad)
+HHM9MAR,9th HH member: marital status
+HHM9MRAGE,9th HH member: Age when s/he got married
+HHM9EDU,9th HH member: Level of education achieved to date
+HHM10RELR,10th HH member: relationship to the respondent
+HHM10SEX,10th HH member: gender
+HHM10DOB,10th HH member: year of birth
+HHM10POB,10th HH member: place of birth
+HHM10EMP,10th HH member: employed?
+HHM10TRW,Has 10th HH member traveled for work outside settlement?
+HHM10TRP,10th HH member's travel place for work (inside country)
+HHM10TRA,Has 10th HH member traveled for work abroad?
+HHM10TAP,10th HH member's travel place for work (abroad)
+HHM10MAR,10th HH member: marital status
+HHM10MRAGE,10th HH member: Age when s/he got married
+HHM10EDU,10th HH member: Level of education achieved to date
+HHM11RELR,11th HH member: relationship to the respondent
+HHM11SEX,11th HH member: gender
+HHM11DOB,11th HH member: year of birth
+HHM11POB,11th HH member: place of birth
+HHM11EMP,11th HH member: employed?
+HHM11TRW,Has 11th HH member traveled for work outside settlement?
+HHM11TRP,11th HH member's travel place for work (inside country)
+HHM11TRA,Has 11th HH member traveled for work abroad?
+HHM11TAP,11th HH member's travel place for work (abroad)
+HHM11MAR,11th HH member: marital status
+HHM11MRAGE,11th HH member: Age when s/he got married
+HHM11EDU,11th HH member: Level of education achieved to date
+HHM12RELR,12th HH member: relationship to the respondent
+HHM12SEX,12th HH member: gender
+HHM12DOB,12th HH member: year of birth
+HHM12POB,12th HH member: place of birth
+HHM12EMP,12th HH member: employed?
+HHM12TRW,Has 12th HH member traveled for work outside settlement?
+HHM12TRP,12th HH member's travel place for work (inside country)
+HHM12TRA,Has 12th HH member traveled for work abroad?
+HHM12TAP,12th HH member's travel place for work (abroad)
+HHM12MAR,12th HH member: marital status
+HHM12MRAGE,12th HH member: Age when s/he got married
+HHM12EDU,12th HH member: Level of education achieved to date
+HHM13RELR,13th HH member: relationship to the respondent
+HHM13SEX,13th HH member: gender
+HHM13DOB,13th HH member: year of birth
+HHM13POB,13th HH member: place of birth
+HHM13EMP,13th HH member: employed?
+HHM13TRW,Has 13th HH member traveled for work outside settlement?
+HHM13TRP,13th HH member's travel place for work (inside country)
+HHM13TRA,Has 13th HH member traveled for work abroad?
+HHM13TAP,13th HH member's travel place for work (abroad)
+HHM13MAR,13th HH member: marital status
+HHM13MRAGE,13th HH member: Age when s/he got married
+HHM13EDU,13th HH member: Level of education achieved to date
+HHM14RELR,14th HH member: relationship to the respondent
+HHM14SEX,14th HH member: gender
+HHM14DOB,14th HH member: year of birth
+HHM14POB,14th HH member: place of birth
+HHM14EMP,14th HH member: employed?
+HHM14TRW,Has 14th HH member traveled for work outside settlement?
+HHM14TRP,14th HH member's travel place for work (inside country)
+HHM14TRA,Has 14th  HH member traveled for work abroad?
+HHM14TAP,14th HH member's travel place for work (abroad)
+HHM14MAR,14th  HH member: marital status
+HHM14MRAGE,14th HH member: Age when s/he got married
+HHM14EDU,14th HH member: Level of education achieved to date
+HELPA,Did the respondent get help while answering the question of section A?
+ECONSTN,Current economic situation of your household:
+OWNCOTV,Does your household own a color TV?
+NUMCOTV,How many color TVs does your household own?
+OWNDIGC,Does your household own a digital photo camera?
+NUMDIGC,How many digital photo cameras does your household own?
+OWNWASH,Does your household own a washing machine?
+NUMWASH,How many washing machines does your household own?
+OWNFRDG,Does your household own a refrigerator?
+NUMFRDG,How many refrigerators does your household own?
+OWNAIRC,Does your household own an air conditioner?
+NUMAIRC,How many air conditioners does your household own?
+OWNCARS,Does your household own a car?
+NUMCARS,How many cars does your household own?
+OWNLNDP,Does your household own a land line phone?
+OWNCELL,Does your household own a cell phone?
+NUMCELL,How many cell phones does your household own?
+OWNPCELL,Do you personally own a cell phone?
+NUMPCELL,How many cell phones do you personally own?
+CELLINTH,Do any of your HH members have Internet access from a cell phone?
+OWNCOMP,Does your household own a personal computer?
+NUMCOMP,How many personal computers does your household own?
+WEBHOMEH,Does any of your HH members access the Internet from a home computer?
+NOMONFD,How often did you not have enough money to buy food?
+INCSOUCO,HH source of income: Internal remittances
+INCSOUAB,HH source of income: International remittances
+INCSOUAG,HH source of income: Sales of agricultural products
+INCSOUSL,HH source of income: Salaries
+INCSOUGO,HH source of income: Pensions or benefits
+INCSOURE,HH source of income: Income from renting
+INCSOUPR,HH source of income: Income from property sales
+INCSOUIN,HH source of income: Interest
+INCSOUOT,HH source of income: Other
+MONYTOT,HH monetary income last month
+SPENDMO,HH spending last month
+SAVINGS,Does your household currently have any savings?
+DEBTSHH,Does your household currently have any debts?
+FOODDBT,How often has your household borrowed money to buy food?
+UTILDBT,How often has your household borrowed money to pay for utilities?
+CURRUNG,Ladder: current HH situation
+FUTRUNG,Ladder: HH situation in 5 years
+RELCOND,Relative economic condition of the HH
+MININCR,What minimal monthly income would enable your household live a normal life?
+HELPC,Did the respondent get help while answering the question of section C?
+LISTENO,Could anybody but you and the respondent listen to the answers?
+FRQDIST,How often was the respondent distracted during the interview?
+FRQUNDST,How often did you feel that the respondent did not understand the questions?
+FRQSHCD,How often did you feel the respondent was reluctant to use the show cards?
+RESPINL,How would you rate the respondents level of intelligence?
+RESPSINC,How would you evaluate sincerity of respondents answers?
+RESPTIR,How tired was the respondent in the end of the interview?
+ACCEPT,Interview acceptance
+SUBSTRATUM,Substratum
+C1_R,1st contact result
+C1_DATE,1st contact date
+C1_TIME,1st contact time
+C2_R,2nd contact result
+C2_DATE,2nd contact date
+C2_TIME,2nd contact time
+C3_R,3rd contact result
+C3_DATE,3rd contact date
+C3_TIME,3rd contact time
+INT_DATE,Interview date
+INT_START,Interview start time
+INT_END,Interview end time
+INT_DUR,Interview duration
+PSU,Cluster
+HHSIZE,Number of all household members
+HHASIZE,Number of adult household members
+INTLANG,Interview language
+NPSUSS,Total number of PSUs per sub-stratum
+NHHPSU,Total number of households per PSU
+NADHH,Total number of adults per household
+HHWT,Weight for household-level questions

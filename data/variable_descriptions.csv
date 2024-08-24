@@ -1,0 +1,707 @@
+Variable,Description
+CBYEAR,Year
+COUNTRY,Country
+ID,Case ID
+RESPONSE,Response
+STRATUM,Stratum
+INDWT,Weight for individual-level questions
+RESPSEX,Respondent's sex
+RESPAGE,Respondent's age
+FEELTRU,Describes your feelings_There are many people I can trust completely
+FEELEMP,Describes your feelings_I experience a general feeling of emptiness
+FEELCLS,Describes your feelings_There are enough people to whom I feel close
+FEELRLY,Describes your feelings_ plenty of people I can rely on when I have problems
+FEELREJ,Describes your feelings_I often feel rejected
+GALLTRU,Most people can be trusted or you cannot be too careful
+LIFESAT,How satisfied are you with your own life as a whole nowadays
+FATEINLF,Everything in life is determined by fate vs People shape their fate themselves
+BUSINUSA,Approve or disapprove doing business with American
+BUSINARM,Approve or disapprove doing business with Armenian
+BUSINAZE,Approve or disapprove doing business with Azerbaijani
+BUSINITA,Approve or disapprove doing business with Italian
+BUSINARA,Approve or disapprove doing business with Arab
+BUSINGEO,Approve or disapprove doing business with Georgian
+BUSINIRA,Approve or disapprove doing business with Iranian
+BUSINJEW,Approve or disapprove doing business with Jew
+BUSINKUR,"Approve or disapprove doing business with Kurd, Yezidi"
+BUSINRUS,Approve or disapprove doing business with Russian
+BUSINTUR,Approve or disapprove doing business with Turk
+BUSINUKR,Approve or disapprove doing business with Ukrainian
+BUSININD,Approve or disapprove doing business with Indians
+BUSINMOL,Approve or disapprove doing business with Molocans
+BUSINFRE,Approve or disapprove doing business with French
+BUSINCHI,Approve or disapprove doing business with Chinese
+BUSINABK,Approve or disapprove doing business with Abkhaz
+BUSINOSS,Approve or disapprove doing business with Ossetian
+BUSINARG,Approve or disapprove doing business with Armenian living in Georgia
+BUSINAZG,Approve or disapprove doing business with Azerbaijani living in Georgia
+BUSINCN,Approve or disapprove doing business with Chinese
+BUSINJW,Whether you approve or disapprove people doing business with a Jehovah's Witness
+BUSINGA, Whether you approve or disapprove of people doing business with a homosexual
+MARWUSA,Approve or disapprove of women of your ethnicity marrying American
+MARWARM,Approve or disapprove of women of your ethnicity marrying Armenian
+MARWAZE,Approve or disapprove of women of your ethnicity marrying Azerbaijani
+MARWITA,Approve or disapprove of women of your ethnicity marrying Italian
+MARWARA,Approve or disapprove of women of your ethnicity marrying Arab
+MARWGEO,Approve or disapprove of women of your ethnicity marrying Georgian
+MARWIRA,Approve or disapprove of women of your ethnicity marrying Iranian
+MARWJEW,Approve or disapprove of women of your ethnicity marrying Jew
+MARWKUR,"Approve or disapprove of women of your ethnicity marrying Kurd, Yezidi"
+MARWRUS,Approve or disapprove of women of your ethnicity marrying Russian
+MARWTUR,Approve or disapprove of women of your ethnicity marrying Turk
+MARWUKR,Approve or disapprove of women of your ethnicity marrying Ukrainian
+MARWIND,Approve or disapprove of women of your ethnicity marrying Indians
+MARWMOL,Approve or disapprove of women of your ethnicity marrying Molocan
+MARWFRE,Approve or disapprove of women of your ethnicity marrying French
+MARWABK,Approve or disapprove of women of your ethnicity marrying Abkhaz
+MARWOSS,Approve or disapprove of women of your ethnicity marrying Ossetian
+MARWARG,Approve or disapprove of women of your ethnicity marrying Armenian in Georgia
+MARWAZG,Approve or disapprove of women of your ethnicity marrying Azeri in Georgia
+MARWCN,Approve or disapprove of women of your ethnicity marrying Chinese
+MARWJW,Approve or disapprove of people like you marrying a Jehovah's Witness
+NEIGHBOR,Which of these people would you not wish to have your neighbors most
+NEIGHBOROS,Which of these people would you not wish to have your neighbors most/other
+INFOSOU1,which is your first main source of information about Georgia's current events
+INFOSOU2,What is your second main source of information about Georgia's current events
+TRUMTVINFO,Which TV station do you trust for news on politics and events in Georgia
+TRUMTVINFOS,Which TV station do you trust for news on politics and events in Georgia-other
+QUALINF,How well TVs inform the population about what is actually going on in Georgia
+TVSRVPP,Agree or disagree TVs in Georgia are serving interests of people like you
+FRQINTR,How often do you use the Internet
+INTACEM,Most frequent Internet activity: Emails
+INTASKY,Most frequent Internet activity: messaging and calls
+INTACFB,Most frequent Internet activity: Facebook
+INTACSN,Most frequent Internet activity: Other social networking
+INTACFD,Most frequent Internet activity: online trainings/webinars
+INTACBL,Most frequent internet activity: Blogs
+INTACIN,Most frequent Internet activity: Search for information
+INTACSH,Most frequent Internet activity: Shop
+INTACNW,Most frequent Internet activity: News
+INTACEN,"Most frequent Internet activity: Music, videos, movies"
+INTAGAME,Most frequent Internet activity: Play online games
+INTABET,"Most frequent Internet activity: Gambling, betting"
+INTACDW,Most frequent Internet activity: Visit dating websites
+INTACOT,Most frequent Internet activity: Other
+INTACPH,Access internet from a smartphone
+INTACCM,Access internet from a computer/laptop
+INTACTB,Access internet from a tablet
+APPFB,Do you use the following social media platforms and applications: Facebook
+APPINS,Do you use the following social media platforms and applications: Instagram
+APPTW,Do you use the following social media platforms and applications: Twitter
+APPYOUT,Do you use the following social media platforms and applications: Youtube
+APPTIK,Do you use the following social media platforms and applications: Tiktok
+APPVKN,Do you use the following social media platforms and applications: Vkontakte
+APPODN,Do you use the following social media platforms and applications: Odnoklassniki
+NEWSSCM,Using  social media platforms to get information about news and politics
+MAPPFB,Do you use the following messenger platforms and applications:Facebook messenger
+MAPPWTS,Do you use the following messenger platforms and applications:Whatsapp
+MAPPVB,Do you use the following messenger platforms and applications:Viber
+MAPPTL,Do you use the following messenger platforms and applications:Telegram
+MAPPSIG,Do you use the following messenger platforms and applications:Signal
+MAPPOT,Do you use the following messenger platforms and applications:Other
+NEWSMSN,Using any of the messenger platforms to get information about news and politics
+SMEFF,What effect online social media has on the way things are going in Georgia
+SMPSEFF,What is main reason online social media has a mostly positive effect  in Georgia
+SMNGEFF,What is main reason online social media has a mostly negative effect in Georgia
+WRDISINF,"How much do you worry about false information in Georgia's internet,social media"
+DSINFDOM,Misleading/false information in  internet regarding:Georgia's domestic politics
+DSINFGP,Misleading/false information in the internet regarding:Global politics
+DSINFCOV,Misleading/false information in the internet regarding:Covid19 pandemic
+DSINFELC,Misleading/false information in the internet regarding: Elections
+DSINFNKW,Misleading/false information in internet regarding:2020 War in Nagorno-Karabakh
+RLINFPUBL,Accurate & reliable info in the internet:must be true because it's published
+RLINFINT,Accurate & reliable info in the internet:all things on the internet are accurate
+RLINFSRC,Accurate & reliable info in the internet:reputable source of information
+RLINFAUTH,Accurate & reliable info in the internet:writer's name and publisher
+RLINFTRS,Accurate & reliable info in the internet:ask someone who I trust
+RLINFSKEP,Accurate & reliable info in the internet:skeptical about everything
+RLINFPOST,Accurate & reliable info in the internet:post on social media
+RLINFIGNR,Accurate &reliable info in the internet:ignore most things
+RLINFURL,Accurate & reliable info in the internet: look at the URL address
+RLINFOTHS,Accurate & reliable info in the internet: Other
+FLNWSENT,Why publish false news:To entertain people
+RLINFCOM,Accurate & reliable info in the internet: compare with other sources (option add
+FLNWSPLAG,Why publish false news:push forward a specific political agenda or position
+FLNWSCNF,Why publish false news:To confuse people and distract from real problems
+FLNWSPOW,Why publish false news:It serves to greater powers for their secret plans
+FLNWSINFL,Why publish false news:To become an influencer on social media
+FLNWSVIEW,Why publish false news:To earn more clicks/share/views of their content
+SUCCLTP,In your opinion what was the largest success of the government from 1991-1998 (L
+SUCCLTPO,In your opinion what was the largest success of the government from 1991-1998 (L
+FAILLTP,In your opinion what was the largest failure of the government from 1991-1998 (L
+FAILLTPO,In your opinion what was the largest failure of the government from 1991-1998 (L
+SUCCRK,In your opinion what was the largest success of the government from 1998-2008 (R
+SUCCRKO,In your opinion what was the largest success of the government from 1998-2008 (R
+FAILRK,In your opinion what was the largest failure of the government from 1998-2008 (R
+FAILRKO,In your opinion what was the largest failure of the government from 1998-2008 (R
+SUCCSS,In your opinion what was the largest success of the government from 2008-2018 (S
+SUCCSSO,In your opinion what was the largest success of the government from 2008-2018 (S
+FAILSS,In your opinion what was the largest failure of the government from 2008-2018 (S
+FAILSSO,In your opinion what was the largest failure of the government from 2008-2018 (S
+SUCCNP,In your opinion what was the largest success of the government from 2018-present
+SUCCNPO,In your opinion what was the largest success of the government from 2018-present
+FAILNP,In your opinion what was the largest failure of the government from 2018-present
+FAILNPO,In your opinion what was the largest failure of the government from 2018-present
+FLNWSOTHS,Why publish false news: Other
+SUCCBEFREV,What was the largest success of the government from 1992 to 2003
+SUCCBEFREVO,What was the largest success of the government from 1992 to 2003-other
+FAILBEFREV,What was the largest failure of the government from 1992 to 2003
+FAILBEFREVO,What was the largest failure of the government from 1992 to 2003-other
+SUCCAFREV,What was the largest success of the government from 2003 to 2012
+SUCCAFREVO,What was the largest success of the government from 2003 to 2012-other
+FAILAFREV,What was the largest failure of the government from 2003 to 2012
+FAILAFREVO,What was the largest failure of the government from 2003 to 2012-other
+SUCCNOW,What was the largest success of the government from 2012 to present
+SUCCNOWO,What was the largest success of the government from 2012 to present-other
+FAILNOW,What was the largest failure of the government from 2012 to present
+FAILNOWO,What was the largest failure of the government from 2012 to present-other
+USSRDISS,Was the dissolution of the Soviet Union a good thing or a bad thing for Georgia
+USSRPOIN,Dissolution of USSR was good for Georgia:became independent
+USSRPOWE,Dissolution of USSR was good for Georgia: get closer to the West
+USSRPOCU,Dissolution of USSR was good for Georgia: opportunity for culture to flourish
+USSRPOHR,Dissolution of USSR was good for Georgia:Human rights are protected
+USSRPOCM,Dissolution of USSR was good for Georgia:People can start business his own
+USSRPOFO,Dissolution of USSR was good for Georgia:wider selection of consumer goods
+USSRPOEL,Dissolution of USSR was good for Georgia:You can elect our own government
+USSRPOEX,Dissolution of USSR was good for Georgia:openly express their opinions
+USSRPOTR,Dissolution of USSR was good for Georgia: travel abroad
+USSRPOLN,Dissolution of USSR was good for Georgia:sustain our language and uniqueness
+USSRPOOT,Dissolution of USSR was good for Georgia: Other
+USSRPOOTHS,Dissolution of USSR was good for Georgia: Other
+USSRNEEC,Dissolution of USSR was bad for Georgia: economic situation has worsened
+USSRNETI,Dissolution of USSR was bad for Georgia: ties with friends and relatives
+USSRNEGHA,Dissolution of USSR was bad for Georgia: judging others ethnic identity
+USSRNTRA,Dissolution of USSR was bad for Georgia: harder to travel in former USSR
+USSRNEWA,Dissolution of USSR was bad for Georgia: war in Abkhazia and South Ossetia
+USSRNECC,Dissolution of USSR was bad for Georgia: civil controversy
+USSRNESS,Dissolution of USSR was bad for Georgia: healthcare and education not free
+USSRNEWK,Dissolution of USSR was bad for Georgia: number of workplaces has declined
+USSRNETR,Dissolution of USSR was bad for Georgia: our country has lost territories
+USSRNEIN,Dissolution of USSR was bad for Georgia: gap between rich and poor deepened
+USSRNEOT,Dissolution of USSR was bad for Georgia: other
+USSRNEOTHS,Dissolution of USSR was bad for Georgia: other
+LIFEUSSR,"How People live in georgia now, compared to the Soviet Union"
+INTLPOL,How interested would you say you are in international politics
+NATLPOL,How interested would you say you are in Georgia's politics
+IMPISS1,What do you think is the most important issue facing Georgia at the moment?
+IMPISS1OS,What do you think is the most important issue facing Georgia at the moment?Other
+IMPISS2,The second most important issue facing Georgia at the moment?
+IMPISS2OS,The second most important issue facing Georgia at the moment? Other
+POLDIRN,Which direction domestic politics of the country are going?
+UNDPOL,I have a good understanding of the important political issues facing our country
+QUALIF,"I consider myself well qualified to participate in politics, if I want to do so"
+PPLNOSAY,People like me don't have any say in what the government does
+VTNODIF,No matter whom I vote it won't make a difference
+OFFPPLTH,Public officials don't care much what people like me think
+POLNOTUND,"Politics and government seem so complicated, a person like me can't understand"
+TRUHLTH,Do you trust-Healthcare system?
+TRUBANK,Do you trust-Banks?
+TRUEDUC,Do you trust-Educational system?
+TRUARMY,Do you trust-Army?
+TRUCRTS,Do you trust-Court system?
+TRUNGOS,Do you trust - NGOs?
+TRUPARL,Do you trust-Parliament?
+TRUEXEC,Do you trust-Executive government (Prime minister and ministers)?
+TRUPRES,Do you trust-President?
+TRUPOLI,Do you trust-Police?
+TRUPPS,Do you trust-Political parties?
+TRUMEDI,Do you trust-Media?
+TRULOCG,Do you trust-Local government?
+TRURELI,Do you trust-Religious institutions to which you belong?
+TRUOMB,Do you trust-Ombudsman?
+TRUSTEU,Do you trust-European Union?
+TRUSTUN,Do you trust-United Nations?
+FREESPK,Do people like yourself have the right to openly say what they think?
+FAIRTRT,Are people like yourself treated fairly by the government?
+GOVTROL,Government as a parent vs Government as an employee
+OBJCOUR,"Court favor some citizens over others, or treat all citizens equally"
+PROTEST,People should vs people should not participate in protest actions
+VOTLEL2,"Did you vote in the first round of self-government elections on October 2, 2021"
+ELCOND,Would you say that self-government elections were conducted…
+VOTLELE,"Did you vote in the parliament elections on October 31, 2020"
+ELCOND2,Would you say that parliament elections were conducted…
+NATOSUPP,To what extent you support Georgia's membership in-NATO?
+NATNSUPW,What is the main reason you would not support Georgia's membership in NATO?
+NATNSUPWOS,What is the main reason you would not support Georgia's membership in NATO-Other
+NATOSUPW,What is the main reason you would support Georgia's membership in NATO?
+NATOSUPWOS,What is the main reason you would support Georgia's membership in NATO? Other
+EUSUPP,To what extent would you support Georgia's membership in the European Union?
+EUNSUPW,What is the main reason you would not support Georgia's membership in the EU?
+EUNSUPWOS,What is the main reason you would not support Georgia's membership in EU? Other
+EUSUPWHY,What is the main reason you would support Georgia's membership in the EU?
+EUSUPWHYOS,What is the main reason you would support Georgia's membership in the EU? Other
+EEUSUPNA,To what extent you support Georgia's membership in Eurasian union?
+EEUNSUW,Main reason you would not support Georgia's membership in Eurasian union?
+EEUSUPW,Main reason you would support Georgia's membership in Eurasian union?
+EEUSUPWOS,Main reason you would support Georgia's membership in Eurasian union? Other
+UNSSUPN,To what extent do you support Armenia becoming a part of the Union State togethe
+MAINFRN,Which country is currently the main friend of Georgia?
+MAINFRNOS,Which country is currently the main friend of Georgia? Other
+MAINENEM,Which country is currently the main enemy of Georgia?
+MAINENEMOS,Which country is currently the main enemy of Georgia? Other
+MAINMOD,Which country is a model for development for Georgia?
+MAINMODOS,Which country is a model for development for Georgia? Other
+CNTRDEM,How much of a democracy is Georgia today?
+ATTDEM,Which of these three statements is closest to your opinion?
+CNTPROS,Situation in Georgia will never improve vs everything will be fine in Georgia
+PARTYSUPP,Which political party is closest to you?
+PARTYSUPPOS,Which political party is closest to you? Other speficied
+PARTYSUPF,Which political party do you have the most sympathy for?
+REVEXP1,"What kind of expectations did you have from the events of April 2018, also known"
+REVEXP2,Did your expectations regarding the Velvet Revolution met…
+GOVSAT1,The outcomes of the June 20 Snap Parliamentary Elections
+GOVSAT2,The work of the newly elected National Assembly of Armenia
+GOVSAT3,How high-ranking officials in the Armenian government are appointed
+NKWARKN,Have you heard about a recent war in Nagorno-Karabakh?
+NKWARAV,Do you think that the 44-day War in Nagorno-Karabakh/Artsakh was avoidable?
+NKWLJ,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWLP,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWPART,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWMED,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWWND,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWDIS,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWFL,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+MKWMA,"Thinking about the 44-Day War in Nagorno-Karabakh, has any of your household mem"
+NKWIMPSE,The 44-Day War will have a negative socio-economic impact on Armenia
+NKWIMPFI,The 44-Day War will have a negative impact on my / my family members' work / inc
+NKWIMPFD,Disagreements with family members / relatives over domestic policy issues
+NKWIMPPS,My and my family’s physical safety
+NKWIMPUF,Uncertainty about my and my family’s future
+NKWARRN,"In your opinion, is there a risk of renewed war in Nagorno-Karabakh?"
+NK2FPA,Have Nagorno-Karabakh as a formal part of Armenia
+NK2IC,Have Nagorno-Karabakh as an independent country
+NK2JG,Create a special administrative region that will be jointly governed by Az & Ar
+NK2AA,Have Nagorno-Karabakh with a high degree of autonomy within Azerbaijan
+NK2AWA,Have Nagorno-Karabakh in Azerbaijan without autonomy
+NK2WRF,Have Nagorno-Karabakh within Russian Federation
+NKPRTRLN,Perception of opening direct transportation links between Armenia and Azerbaijan
+NKTLNS,The operation of the transportation link between western regions of Azerbaijan a
+NKTLED,The operation of the transportation link between western regions of Azerbaijan a
+NKCRES,"In your opinion, what should be the general goal of Armenia in terms of the terr"
+PASTCONF,It is necessary to forget vs it is impossible to forget what happened in past
+EMPLSIT, Which of the following best describes your primary activity or situation?
+UNEMYRS,From which year have you not had a job?
+INTSTJOB,"Are you currently interested in a job, or not?"
+LOOKJOB,"Have you been looking for a job during the past four weeks, or not?"
+JOBSTART,Would you be able to start working within the next 14 days?
+WORKTYP,Which of the following best describes your status and the type of workplace?
+WORKYRS,From which year have you been working at this workplace?
+WORKSEC,Which of the following best describes the sector in which you work?
+JOBSATFN,"Overall, how satisfied or dissatisfied are you with your job?"
+PERSINC,Your personal monetary income last month?
+GETJOBF,Which factor do you consider most important for getting a good job?
+GETJOBFOS,Which factor do you consider most important for getting a good job? Other
+NEWHHJOB,Has anybody in your household started a new job during the last 12 months?
+JOBLOST,Has anybody in your household lost job during the last 12 months?
+BANKACC,Do you have a bank account or a bank card?
+ETHNIC,Which ethnic group do you consider yourself a part of?
+EDUYRS,How many years of study have you completed?
+RESPEDU,Level of education you have achieved
+RFAEDUC,Level of education your father has achieved?
+RMOEDUC,Level of education your mother has achieved?
+FLMANDSC,Which foreign language should be mandatory in secondary schools
+KNOWRUS,Ability in the following: Russian language
+KNOWENG,Ability in the following: English language
+COMPABL,"Ability in the following: Computer (Microsoft Office programs, excluding games)"
+SECNDLAAR,Second language used in everyday life -  Arabic
+SECNDLAAP,Second language used in everyday life - Abkhaz
+SECNDLAHY,Second language used in everyday life - Armenian
+SECNDLAAS,Second language used in everyday life - Assyrian
+SECNDLAAZ,Second language used in everyday life - Azerbaijani
+SECNDLAAV,Second language used in everyday life - Avar
+SECNDLANGKA,Second language used in everyday life - Georgian
+SECNDLANHE,Second language used in everyday life - Greek
+SECNDLAEN,Second language used in everyday life - English
+SECNDLAZA,Second language used in everyday life - Kurdish languages
+SECNDLAFA,Second language used in everyday life -  Persian
+SECNDLAMR,Second language used in everyday life - Mingrelian (and Laz)
+SECNDLAOSS,Second language used in everyday life - Ossetian
+SECNDLAPR,Second language used in everyday life - Other
+SECNDLARU,Second language used in everyday life - Russian
+SECNDLASV,Second language used in everyday life - Svan
+SECNDLATR,Second language used in everyday life - Turkish
+SECNDLAOT,Second language used in everyday life -  Other
+RELGNEW,Respondents religion
+RELSERV,How often do you attend religious services nowadays?
+RELFAST,How often do you fast when it is required by your religion?
+RELIMP,How important is religion in your daily life
+RELIMPARM,How important is religion in your daily life
+EMIGRAT,Would you leave /country/ forever to live somewhere else?
+MIGSHRT,Would you leave /country/ for a certain period of time to live somewhere else?
+LIVEREG,Are you registered in a place where you live now?
+RESPDOB, Respondent's year of birth
+RESPPOB,Respondent's place of birth
+RESEMPL,Are you currently employed?
+RESPMAR,What is your current marital status?
+RESPMARAGE,How old were you when you got married [for the first time]?
+C19TEST,"Since February 2020, did you get tested for COVID-19, at least once?"
+C19POS,Were any of these tests positive?
+C19MEDH,"In any time since February 2020, did you seek medical help for COVID-19"
+C19MDH,Were you able to get medical help?
+C19GTVAC,Did you get vaccinated against COVID-19?
+C19VACCD,Did you get…
+C19VC,Which vaccine or vaccines did you get?
+C19VCPHZ,Vaccine/vaccines got - Pfizer
+C19VCAST,Vaccine/vaccines got - Oxford/AstraZeneka
+C19VCSNV,Vaccine/vaccines got - Sinovak
+C19VCSNM,Vaccine/vaccines got - Sinopharm
+C19VCSPT,Vaccine/vaccines got - Sputnik V
+C19VCMDR,Vaccine/vaccines got - Moderna
+C19VACCOS,Vaccine/vaccines got - Other
+HH2RELR,2nd HH member: relationship to the respondent
+HHM2SEX,2nd HH member: gender
+HHM2DOB,2nd HH member: year of birth
+HHM2POB,2nd HH member: place of birth
+HHM2EMP,2nd HH member: employed?
+HHM2MAR,2nd HH member: marital status
+HH2MARAGE,How old was 2nd HH member when s/he got married [for the first time]?
+HH2EDU,What is the highest level of education 2nd HH member has achieved to date?
+HH2C19TEST,"Since February 2020, did 2nd HH member get tested for COVID-19, at least once?"
+HH2C19POS,2nd HH member: Were any of these tests positive?
+HH2C19MEDH,"In any time since February 2020, did 2nd HH member seek medical help for COVID19"
+HH2C19MDH,Was 2nd HH member able to get medical help?
+HH2C19GTVAC,Did 2nd HH member get vaccinated against COVID-19?
+HH2C19VACCD,Did 2nd HH member get…
+HH2C19VC,Which vaccine or vaccines did the 2nd member get?
+HH2C19VCPHZ,2nd HH member: Vaccine/vaccines got - Pfizer
+HH2C19VCAST,2nd HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH2C19VCSNV,2nd HH member:Vaccine/vaccines got - Sinovak
+HH2C19VCSNM,2nd HH member:Vaccine/vaccines got - Sinopharm
+HH2C19VCSPT,2nd HH member:Vaccine/vaccines got - Sputnik V
+HH2C19VCMDR,2nd HH member:Vaccine/vaccines got - Moderna
+HH2C19VACCOS,2nd HH member: Vaccine/vaccines got - Other
+HH3RELR,3rd HH member: relationship to the respondent
+HHM3SEX,3rd HH member: gender
+HHM3DOB,3rd HH member: year of birth
+HHM3POB,3rd HH member: place of birth
+HHM3EMP,3rd HH member: employed?
+HHM3MAR,3rd HH member: marital status
+HH3MARAGE,How old was 3rd HH member when s/he got married [for the first time]?
+HH3EDU,What is the highest level of education 3rd HH member has achieved to date?
+HH3C19TEST,"Since February 2020, did 3rd HH member get tested for COVID-19, at least once?"
+HH3C19POS,3rd HH member: Were any of these tests positive?
+HH3C19MEDH,"In any time since February 2020, did 3rd HH member seek medical help for COVID19"
+HH3C19MDH,Was 3rd HH member able to get medical help?
+HH3C19GTVAC,Did 3rd HH member get vaccinated against COVID-19?
+HH3C19VACCD,Did 3rd HH member get…
+HH3C19VC,Which vaccine or vaccines did the 3rd member get?
+HH3C19VCPHZ,3rd HH member: Vaccine/vaccines got - Pfizer
+HH3C19VCAST,3rd HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH3C19VCSNV,3rd HH member:Vaccine/vaccines got - Sinovak
+HH3C19VCSNM,3rd HH member:Vaccine/vaccines got - Sinopharm
+HH3C19VCSPT,3rd HH member:Vaccine/vaccines got - Sputnik V
+HH3C19VCMDR,3rd HH member:Vaccine/vaccines got - Moderna
+HH3C19VACCOS,3rd HH member: Vaccine/vaccines got - Other
+HH4RELR,4th HH member: relationship to the respondent
+HHM4SEX,4th HH member: gender
+HHM4DOB,4th HH member: year of birth
+HHM4POB,4th HH member: place of birth
+HHM4EMP,4th HH member: employed?
+HHM4MAR,4th HH member: marital status
+HH4MARAGE,How old was 4th HH member when s/he got married [for the first time]?
+HH4EDU,What is the highest level of education 4th HH member has achieved to date?
+HH4C19TEST,"Since February 2020, did 4th HH member get tested for COVID-19, at least once?"
+HH4C19POS,4th HH member: Were any of these tests positive?
+HH4C19MEDH,"In any time since February 2020, did 4th HH member seek medical help for COVID19"
+HH4C19MDH,Was 4th HH member able to get medical help?
+HH4C19GTVAC,Did 4th HH member get vaccinated against COVID-19?
+HH4C19VACCD,Did 4th HH member get…
+HH4C19VC,Which vaccine or vaccines did the 4th member get?
+HH4C19VCPHZ,4th HH member: Vaccine/vaccines got - Pfizer
+HH4C19VCAST,4th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH4C19VCSNV,4th HH member:Vaccine/vaccines got - Sinovak
+HH4C19VCSNM,4th HH member:Vaccine/vaccines got - Sinopharm
+HH4C19VCSPT,4th HH member:Vaccine/vaccines got - Sputnik V
+HH4C19VCMDR,4th HH member:Vaccine/vaccines got - Moderna
+HH4C19VACCOS,4th HH member: Vaccine/vaccines got - Other
+HH5RELR,5th HH member: relationship to the respondent
+HHM5SEX,5th HH member: gender
+HHM5DOB,5th HH member: year of birth
+HHM5POB,5th HH member: place of birth
+HHM5EMP,5th HH member: employed?
+HHM5MAR,5th HH member: marital status
+HH5MARAGE,How old was 5th HH member when s/he got married [for the first time]?
+HH5EDU,What is the highest level of education 5th HH member has achieved to date?
+HH5C19TEST,"Since February 2020, did 5th HH member get tested for COVID-19, at least once?"
+HH5C19POS,5th HH member: Were any of these tests positive?
+HH5C19MEDH,"In any time since February 2020, did 5th HH member seek medical help for COVID19"
+HH5C19MDH,Was 5th HH member able to get medical help?
+HH5C19GTVAC,Did 5th HH member get vaccinated against COVID-19?
+HH5C19VACCD,Did 5th HH member get…
+HH5C19VC,Which vaccine or vaccines did the 5th member get?
+HH5C19VCPHZ,5th HH member: Vaccine/vaccines got - Pfizer
+HH5C19VCAST,5th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH5C19VCSNV,5th HH member:Vaccine/vaccines got - Sinovak
+HH5C19VCSNM,5th HH member:Vaccine/vaccines got - Sinopharm
+HH5C19VCSPT,5th HH member:Vaccine/vaccines got - Sputnik V
+HH5C19VCMDR,5th HH member:Vaccine/vaccines got - Moderna
+HH5C19VACCOS,5th HH member: Vaccine/vaccines got - Other
+HH6RELR,6th HH member: relationship to the respondent
+HHM6SEX,6th HH member: gender
+HHM6DOB,6th HH member: year of birth
+HHM6POB,6th HH member: place of birth
+HHM6EMP,6th HH member: employed?
+HHM6MAR,6th HH member: marital status
+HH6MARAGE,How old was 6th HH member when s/he got married [for the first time]?
+HH6EDU,What is the highest level of education 6th HH member has achieved to date?
+HH6C19TEST,"Since February 2020, did 6th HH member get tested for COVID-19, at least once?"
+HH6C19POS,6th HH member: Were any of these tests positive?
+HH6C19MEDH,"In any time since February 2020, did 6th HH member seek medical help for COVID19"
+HH6C19MDH,Was 6th HH member able to get medical help?
+HH6C19GTVAC,Did 6th HH member get vaccinated against COVID-19?
+HH6C19VACCD,Did 6th HH member get…
+HH6C19VC,Which vaccine or vaccines did the 6th member get?
+HH6C19VCPHZ,6th HH member: Vaccine/vaccines got - Pfizer
+HH6C19VCAST,6th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH6C19VCSNV,6th HH member:Vaccine/vaccines got - Sinovak
+HH6C19VCSNM,6th HH member:Vaccine/vaccines got - Sinopharm
+HH6C19VCSPT,6th HH member:Vaccine/vaccines got - Sputnik V
+HH6C19VCMDR,6th HH member:Vaccine/vaccines got - Moderna
+HH6C19VACCOS,6th HH member: Vaccine/vaccines got - Other
+HH7RELR,7th HH member: relationship to the respondent
+HHM7SEX,7th HH member: gender
+HHM7DOB,7th HH member: year of birth
+HHM7POB,7th HH member: place of birth
+HHM7EMP,7th HH member: employed?
+HHM7MAR,7th HH member: marital status
+HH7MARAGE,How old was 7th HH member when s/he got married [for the first time]?
+HH7EDU,What is the highest level of education 7th HH member has achieved to date?
+HH7C19TEST,"Since February 2020, did 7th HH member get tested for COVID-19, at least once?"
+HH7C19POS,7th HH member: Were any of these tests positive?
+HH7C19MEDH,"In any time since February 2020, did 7th HH member seek medical help for COVID19"
+HH7C19MDH,Was 7th HH member able to get medical help?
+HH7C19GTVAC,Did 7th HH member get vaccinated against COVID-19?
+HH7C19VACCD,Did 7th HH member get…
+HH7C19VC,Which vaccine or vaccines did the 7th member get?
+HH7C19VCPHZ,7th HH member: Vaccine/vaccines got - Pfizer
+HH7C19VCAST,7th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH7C19VCSNV,7th HH member:Vaccine/vaccines got - Sinovak
+HH7C19VCSNM,7th HH member:Vaccine/vaccines got - Sinopharm
+HH7C19VCSPT,7th HH member:Vaccine/vaccines got - Sputnik V
+HH7C19VCMDR,7th HH member:Vaccine/vaccines got - Moderna
+HH7C19VACCOS,7th HH member: Vaccine/vaccines got - Other
+HH8RELR,8th HH member: relationship to the respondent
+HHM8SEX,8th HH member: gender
+HHM8DOB,8th HH member: year of birth
+HHM8POB,8th HH member: place of birth
+HHM8EMP,8th HH member: employed?
+HHM8MAR,8th HH member: marital status
+HH8MARAGE,How old was 8th HH member when s/he got married [for the first time]?
+HH8EDU,What is the highest level of education 8th HH member has achieved to date?
+HH8C19TEST,"Since February 2020, did 8th HH member get tested for COVID-19, at least once?"
+HH8C19POS,8th HH member: Were any of these tests positive?
+HH8C19MEDH,"In any time since February 2020, did 8th HH member seek medical help for COVID19"
+HH8C19MDH,Was 8th HH member able to get medical help?
+HH8C19GTVAC,Did 8th HH member get vaccinated against COVID-19?
+HH8C19VACCD,Did 8th HH member get…
+HH8C19VC,Which vaccine or vaccines did the 8th member get?
+HH8C19VCPHZ,8th HH member: Vaccine/vaccines got - Pfizer
+HH8C19VCAST,8th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH8C19VCSNV,8th HH member:Vaccine/vaccines got - Sinovak
+HH8C19VCSNM,8th HH member:Vaccine/vaccines got - Sinopharm
+HH8C19VCSPT,8th HH member:Vaccine/vaccines got - Sputnik V
+HH8C19VCMDR,8th HH member:Vaccine/vaccines got - Moderna
+HH8C19VACCOS,8th HH member: Vaccine/vaccines got - Other
+HH9RELR,9th HH member: relationship to the respondent
+HHM9SEX,9th HH member: gender
+HHM9DOB,9th HH member: year of birth
+HHM9POB,9th HH member: place of birth
+HHM9EMP,9th HH member: employed?
+HHM9MAR,9th HH member: marital status
+HH9MARAGE,How old was 9th HH member when s/he got married [for the first time]?
+HH9EDU,What is the highest level of education 9th HH member has achieved to date?
+HH9C19TEST,"Since February 2020, did 9th HH member get tested for COVID-19, at least once?"
+HH9C19POS,9th HH member: Were any of these tests positive?
+HH9C19MEDH,"In any time since February 2020, did 9th HH member seek medical help for COVID19"
+HH9C19MDH,Was 9th HH member able to get medical help?
+HH9C19GTVAC,Did 9th HH member get vaccinated against COVID-19?
+HH9C19VACCD,Did 9th HH member get…
+HH9C19VC,Which vaccine or vaccines did the 9th member get?
+HH9C19VCPHZ,9th HH member: Vaccine/vaccines got - Pfizer
+HH9C19VCAST,9th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH9C19VCSNV,9th HH member:Vaccine/vaccines got - Sinovak
+HH9C19VCSNM,9th HH member:Vaccine/vaccines got - Sinopharm
+HH9C19VCSPT,9th HH member:Vaccine/vaccines got - Sputnik V
+HH9C19VCMDR,9th HH member:Vaccine/vaccines got - Moderna
+HH9C19VACCOS,9th HH member: Vaccine/vaccines got - Other
+HH10RELR,10th HH member: relationship to the respondent
+HHM10SEX,10th HH member: gender
+HHM10DOB,10th HH member: year of birth
+HHM10POB,10th HH member: place of birth
+HHM10EMP,10th HH member: employed?
+HHM10MAR,10th HH member: marital status
+HH10MARAGE,How old was 10th HH member when s/he got married [for the first time]?
+HH10EDU,What is the highest level of education 10th HH member has achieved to date?
+HH10C19TEST,"Since February 2020, did 10th HH member get tested for COVID-19, at least once?"
+HH10C19POS,10th HH member: Were any of these tests positive?
+HH10C19MEDH,"Since February 2020, did 10th HH member seek medical help for COVID19?"
+HH10C19MDH,Was 10th HH member able to get medical help?
+HH10C19GTVAC,Did 10th HH member get vaccinated against COVID-19?
+HH10C19VACCD,Did 10th HH member get…
+HH10C19VC,Which vaccine or vaccines did the 10th member get?
+HH10C19VCPHZ,10th HH member: Vaccine/vaccines got - Pfizer
+HH10C19VCAST,10th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH10C19VCSNV,10th HH member:Vaccine/vaccines got - Sinovak
+HH10C19VCSNM,10th HH member:Vaccine/vaccines got - Sinopharm
+HH10C19VCSPT,10th HH member:Vaccine/vaccines got - Sputnik V
+HH10C19VCMDR,10th HH member:Vaccine/vaccines got - Moderna
+HH10C19VACCOS,10th HH member: Vaccine/vaccines got - Other
+HH11RELR,11th HH member: relationship to the respondent
+HHM11SEX,11th HH member: gender
+HHM11DOB,11th HH member: year of birth
+HHM11POB,11th HH member: place of birth
+HHM11EMP,11th HH member: employed?
+HHM11MAR,11th HH member: marital status
+HH11MARAGE,How old was 11th HH member when s/he got married [for the first time]?
+HH11EDU,What is the highest level of education 11th HH member has achieved to date?
+HH11C19TEST,"Since February 2020, did 11th HH member get tested for COVID-19, at least once?"
+HH11C19POS,11th HH member: Were any of these tests positive?
+HH11C19MEDH,"Since February 2020, did 11th HH member seek medical help for COVID19?"
+HH11C19MDH,Was 11th HH member able to get medical help?
+HH11C19GTVAC,Did 11th HH member get vaccinated against COVID-19?
+HH11C19VACCD,Did 11th HH member get…
+HH11C19VC,Which vaccine or vaccines did the 11th member get?
+HH11C19VCPHZ,11th HH member: Vaccine/vaccines got - Pfizer
+HH11C19VCAST,11th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH11C19VCSNV,11th HH member:Vaccine/vaccines got - Sinovak
+HH11C19VCSNM,11th HH member:Vaccine/vaccines got - Sinopharm
+HH11C19VCSPT,11th HH member:Vaccine/vaccines got - Sputnik V
+HH11C19VCMDR,11th HH member:Vaccine/vaccines got - Moderna
+HH11C19VACCOS,11th HH member: Vaccine/vaccines got - Other
+HH12RELR,12th HH member: relationship to the respondent
+HHM12SEX,12th HH member: gender
+HHM12DOB,12th HH member: year of birth
+HHM12POB,12th HH member: place of birth
+HHM12EMP,12th HH member: employed?
+HHM12MAR,12th HH member: marital status
+HH12MARAGE,How old was 12th HH member when s/he got married [for the first time]?
+HH12EDU,What is the highest level of education 12th HH member has achieved to date?
+HH12C19TEST,"Since February 2020, did 12th HH member get tested for COVID-19, at least once?"
+HH12C19POS,12th HH member: Were any of these tests positive?
+HH12C19MEDH,"Since February 2020, did 12th HH member seek medical help for COVID19?"
+HH12C19MDH,Was 12th HH member able to get medical help?
+HH12C19GTVAC,Did 12th HH member get vaccinated against COVID-19?
+HH12C19VACCD,Did 12th HH member get…
+HH12C19VC,Which vaccine or vaccines did the 12th member get?
+HH12C19VCPHZ,12th HH member: Vaccine/vaccines got - Pfizer
+HH12C19VCAST,12th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH12C19VCSNV,12th HH member:Vaccine/vaccines got - Sinovak
+HH12C19VCSNM,12th HH member:Vaccine/vaccines got - Sinopharm
+HH12C19VCSPT,12th HH member:Vaccine/vaccines got - Sputnik V
+HH12C19VCMDR,12th HH member:Vaccine/vaccines got - Moderna
+HH12C19VACCOS,12th HH member: Vaccine/vaccines got - Other
+HH13RELR,13th HH member: relationship to the respondent
+HHM13SEX,13th HH member: gender
+HHM13DOB,13th HH member: year of birth
+HHM13POB,13th HH member: place of birth
+HHM13EMP,13th HH member: employed?
+HHM13MAR,13th HH member: marital status
+HH13MARAGE,How old was 13th HH member when s/he got married [for the first time]?
+HH13EDU,What is the highest level of education 13th HH member has achieved to date?
+HH13C19TEST,"Since February 2020, did 13th HH member get tested for COVID-19, at least once?"
+HH13C19POS,13th HH member: Were any of these tests positive?
+HH13C19MEDH,"Since February 2020, did 13th HH member seek medical help for COVID19?"
+HH13C19MDH,Was 13th HH member able to get medical help?
+HH13C19GTVAC,Did 13th HH member get vaccinated against COVID-19?
+HH13C19VACCD,Did 13th HH member get…
+HH13C19VCPHZ,13th HH member: Vaccine/vaccines got - Pfizer
+HH13C19VCAST,13th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH13C19VCSNV,13th HH member:Vaccine/vaccines got - Sinovak
+HH13C19VCSNM,13th HH member:Vaccine/vaccines got - Sinopharm
+HH13C19VCSPT,13th HH member:Vaccine/vaccines got - Sputnik V
+HH13C19VCMDR,13th HH member:Vaccine/vaccines got - Moderna
+HH13C19VACCOS,13th HH member: Vaccine/vaccines got - Other
+HH14RELR,14th HH member: relationship to the respondent
+HHM14SEX,14th HH member: gender
+HHM14DOB,14th HH member: year of birth
+HHM14POB,14th HH member: place of birth
+HHM14EMP,14th HH member: employed?
+HHM14MAR,14th HH member: marital status
+HH14MARAGE,How old was 14th HH member when s/he got married [for the first time]?
+HH14EDU,What is the highest level of education 14th HH member has achieved to date?
+HH14C19TEST,"Since February 2020, did 14th HH member get tested for COVID-19, at least once?"
+HH14C19POS,14th HH member: Were any of these tests positive?
+HH14C19MEDH,"Since February 2020, did 14th HH member seek medical help for COVID19?"
+HH14C19MDH,Was 14th HH member able to get medical help?
+HH14C19GTVAC,Did 14th HH member get vaccinated against COVID-19?
+HH14C19VACCD,Did 14th HH member get…
+HH14C19VCPHZ,14th HH member: Vaccine/vaccines got - Pfizer
+HH14C19VCAST,14th HH member:Vaccine/vaccines got - Oxford/AstraZeneka
+HH14C19VCSNV,14th HH member:Vaccine/vaccines got - Sinovak
+HH14C19VCSNM,14th HH member:Vaccine/vaccines got - Sinopharm
+HH14C19VCSPT,14th HH member:Vaccine/vaccines got - Sputnik V
+HH14C19VCMDR,14th HH member:Vaccine/vaccines got - Moderna
+HH14C19VACCOS,14th HH member: Vaccine/vaccines got - Other
+HELPA,HH members helped respodent to answer questions about hh
+ECONSTN,The current economic situation of your household
+OWNCOTV,Own: Color television
+OWNDIGC,Own: Digital photo camera
+OWNWASH,Own: Automatic washing machine
+OWNFRDG,Own: Refrigerator
+OWNAIRC,Own: Air conditioner
+OWNCARS,Own: Car
+OWNLNDP,Own: Land line phone
+OWNTAB,Own: Tablet computer
+OWNHWT,Own: Hot water
+OWNCHTG,Own: Central heating
+OWNMCR,Own: Microwave
+OWNDISH,Own: Dishwasher
+OWNCELL,Own: Cell phone
+OWNPCELL,Own: you personally own a cell phone
+CELLINTH,Does any of your hh members have Internet access from his/her cell phone?
+OWNCOMP,"Own: Personal computer, including laptop"
+WEBHOMEH,Own: Access the internet from hh member's home computer/laptop?
+TVACCESS,"Does your household have access to Cable, satellite, or internet TV?"
+NOMONFD,Not enough money to buy food for past 12 months
+INCSOUCO,Sources of HH income: Money from relatives living in the country
+INCSOUAB,Sources of HH income: Money from relatives living abroad
+INCSOUAG,Sources of HH income: Sales of agricultural products
+INCSOUSL,Sources of HH income: Salaries
+INCSOUGO,Sources of HH income: Pensions and government benefits
+INCSOURE,Sources of HH income: Rent collected
+INCSOUPR,Sources of HH income: Sold property
+INCSOUIN,Sources of HH income: Interest/Investment returns
+INCSOUOT,Sources of HH income: Other source
+MONYTOT,HH monetary income last month
+SPENDMO,HH spending last month
+SAVINGS,Does your household currently have any savings?
+DEBTSHH,Does your household currently have any debts?
+FOODDBT,Frequency of borrowing money for food
+UTILDBT,Frequency of borrowing money for utilities
+CURRUNG,Current perceived economic rung
+FUTRUNG,Perceived economic rung in 5 years
+RELCOND,Perceived relative economic condition
+MININCR,Minimal monthly income for normal life
+HELPC,DId the respondent get help from other household member(s
+LISTENO,Did anybody else listen the interview?
+FRQDIST,Frequency of respondent being distracted
+FRQUNDST,How often did you feel that the respondent did not understand the questions?
+FRQSHCD,How often did you feel the respondent was reluctant to use the SHOW CARDS?
+RESPINL,Respondent's level of intelligence
+RESPSINC,Level of sincerity of the respondent
+RESPTIR,How tired was respondent at the end of the interview?
+ATTEND,Number of people present during the interview
+ACCEPT,Interview acceptance
+SUBSTRATUM,Substratum
+PSU,Cluster
+HHSIZE,Number of all household members
+HHASIZE,Number of adult household members
+INTID,Interviewer code
+C1_R,1st contact result
+C1_DATE,1st contact date
+C1_TIME,1st contact time
+C2_R,2nd contact result
+C2_DATE,2nd contact date
+C2_TIME,2nd contact time
+C3_R,3rd contact result
+C3_DATE,3rd contact date
+C3_TIME,3rd contact time
+INT_DATE,Interview date
+INT_START,Interview start time
+INT_END,Interview end time
+INT_DUR,Interview duration
+INTLANG,Interview language
+NPSUSS,Total number of PSUs per sub-stratum
+NHHPSU,Total number of households per PSU
+NADHH,Total number of adults per household
+HHWT,Weight for household-level questions
