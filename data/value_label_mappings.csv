@@ -1,0 +1,372 @@
+Variable,Value,Label
+RESPAGE,1.0,18/35
+RESPAGE,2.0,36/55
+RESPAGE,3.0,56+
+FATEINLF,-9.0,Break off
+FATEINLF,-7.0,Legal skip
+FATEINLF,-3.0,Interviewer error
+FATEINLF,-2.0,Refuse to answer
+FATEINLF,-1.0,Don't know
+FATEINLF,1.0,Everything in life is determined by fate
+FATEINLF,10.0,People shape their fate themselves
+BUSINRUS,-9.0,Break off
+BUSINRUS,-7.0,Legal skip
+BUSINRUS,-3.0,Interviewer error
+BUSINRUS,-2.0,Refuse to answer
+BUSINRUS,-1.0,Don't know
+BUSINRUS,0.0,Disapprove
+BUSINRUS,1.0,Approve
+BUSINTUR,-9.0,Break off
+BUSINTUR,-7.0,Legal skip
+BUSINTUR,-3.0,Interviewer error
+BUSINTUR,-2.0,Refuse to answer
+BUSINTUR,-1.0,Don't know
+BUSINTUR,0.0,Disapprove
+BUSINTUR,1.0,Approve
+BUSINGA,-9.0,Break off
+BUSINGA,-7.0,Legal skip
+BUSINGA,-3.0,Interviewer error
+BUSINGA,-2.0,Refuse to answer
+BUSINGA,-1.0,Don't know
+BUSINGA,0.0,Disapprove
+BUSINGA,1.0,Approve
+NEIGHBOR,-9.0,Break off
+NEIGHBOR,-7.0,Legal skip
+NEIGHBOR,-5.0,I would not wish any of these people as my neighbors
+NEIGHBOR,-3.0,Interviewer error
+NEIGHBOR,-2.0,Refuse to answer
+NEIGHBOR,-1.0,Don't know
+NEIGHBOR,1.0,People following a religion that is different to yours
+NEIGHBOR,2.0,People having political views that are different to yours
+NEIGHBOR,3.0,Europeans who come to live in COUNTRY and want to stay
+NEIGHBOR,4.0,Asians who come to live in COUNTRY and want to stay
+NEIGHBOR,5.0,Drug addicts
+NEIGHBOR,6.0,Homosexuals
+NEIGHBOR,7.0,Black people
+NEIGHBOR,8.0,Criminals
+NEIGHBOR,9.0,Other
+USSRDISS,-9.0,Break off
+USSRDISS,-7.0,Legal skip
+USSRDISS,-3.0,Interviewer error
+USSRDISS,-2.0,Refuse to answer
+USSRDISS,-1.0,Don't know
+USSRDISS,1.0,A good thing
+USSRDISS,2.0,A bad thing
+EUSUPP,-9.0,Break off
+EUSUPP,-7.0,Legal skip
+EUSUPP,-3.0,Interviewer error
+EUSUPP,-2.0,Refuse to answer
+EUSUPP,-1.0,Don't know
+EUSUPP,1.0,Do not support at all
+EUSUPP,2.0,Rather not support
+EUSUPP,3.0,"Partially support, partially do not support"
+EUSUPP,4.0,Rather support
+EUSUPP,5.0,Fully support
+EEUSUPNA,-9.0,Break off
+EEUSUPNA,-7.0,Legal skip
+EEUSUPNA,-3.0,Interviewer error
+EEUSUPNA,-2.0,Refuse to answer
+EEUSUPNA,-1.0,Don't know
+EEUSUPNA,1.0,Don’t support at all
+EEUSUPNA,2.0,Rather not support
+EEUSUPNA,3.0,"Partially support, partially don’t support"
+EEUSUPNA,4.0,Rather support
+EEUSUPNA,5.0,Fully support
+EEUNSUW,-9.0,Break off
+EEUNSUW,-7.0,Legal skip
+EEUNSUW,-3.0,Interviewer error
+EEUNSUW,-2.0,Refuse to answer
+EEUNSUW,-1.0,Don't know
+EEUNSUW,1.0,It will not benefit my country
+EEUNSUW,2.0,It would restrict our independence
+EEUNSUW,3.0,It would harm our culture and traditions
+EEUNSUW,4.0,Peoples economic conditions would worsen
+EEUNSUW,5.0,It would hinder our relations with the West
+EEUNSUW,6.0,We would be less protected from foreign threats
+EEUNSUW,7.0,There would be less chance to restore territorial integrity
+EEUNSUW,8.0,"Everyday life will become more dangerous, less safe"
+EEUNSUW,9.0,Other
+EEUSUPW,-7.0,Legal skip
+EEUSUPW,-2.0,Refuse to answer
+EEUSUPW,-1.0,Don't know
+EEUSUPW,1.0,Membership in the Eurasian Union would help strengthen relations with Russia
+EEUSUPW,2.0,We would have a better chance to restore its territorial integrity
+EEUSUPW,3.0,People's economic conditions would improve
+EEUSUPW,4.0,We would be better protected from foreign treats
+EEUSUPW,5.0,Membership in the Eurasian Union would result in improved safety in everyday life
+EEUSUPW,6.0,I would be able to travel to the Eurasian Union countries without a visa
+EEUSUPW,7.0,Other
+MAINFRN,-9.0,Break off
+MAINFRN,-7.0,Legal skip
+MAINFRN,-5.0,No one
+MAINFRN,-3.0,Interviewer error
+MAINFRN,-2.0,Refuse to answer
+MAINFRN,-1.0,Don't know
+MAINFRN,1.0,Abkhazia
+MAINFRN,2.0,Afganistan
+MAINFRN,3.0,Arabia
+MAINFRN,4.0,Argentina
+MAINFRN,5.0,Armenia
+MAINFRN,6.0,Australia
+MAINFRN,7.0,Austria
+MAINFRN,8.0,Azerbaijan
+MAINFRN,9.0,Baltic countries
+MAINFRN,10.0,Belgium
+MAINFRN,11.0,Belarus
+MAINFRN,12.0,Canada
+MAINFRN,13.0,Cyprus
+MAINFRN,14.0,Czech republic
+MAINFRN,15.0,Denmark
+MAINFRN,16.0,Eastern European Countries
+MAINFRN,17.0,Egypt
+MAINFRN,18.0,Estonia
+MAINFRN,19.0,EU
+MAINFRN,20.0,Finland
+MAINFRN,21.0,France
+MAINFRN,22.0,Great Britain
+MAINFRN,23.0,Germany
+MAINFRN,24.0,Greece
+MAINFRN,25.0,Iceland
+MAINFRN,26.0,India
+MAINFRN,27.0,Iran
+MAINFRN,28.0,Iraq
+MAINFRN,29.0,Ireland
+MAINFRN,30.0,Israel
+MAINFRN,31.0,Italy
+MAINFRN,32.0,Japan
+MAINFRN,33.0,Kazakhstan
+MAINFRN,34.0,Korea
+MAINFRN,35.0,Kyrgyztan
+MAINFRN,36.0,Latvia
+MAINFRN,37.0,Lithuania
+MAINFRN,38.0,Luxembourg
+MAINFRN,39.0,Many
+MAINFRN,40.0,Mexico
+MAINFRN,41.0,Moldova
+MAINFRN,42.0,Muslim countries
+MAINFRN,43.0,Neighbouring countries
+MAINFRN,44.0,Netherlands
+MAINFRN,45.0,Norway
+MAINFRN,46.0,Ossetia
+MAINFRN,47.0,Palestine
+MAINFRN,48.0,Poland
+MAINFRN,49.0,Portugal
+MAINFRN,50.0,Romania
+MAINFRN,51.0,Russia
+MAINFRN,52.0,Slovakia
+MAINFRN,53.0,Spain
+MAINFRN,54.0,Sweden
+MAINFRN,55.0,Switzerland
+MAINFRN,56.0,Syria
+MAINFRN,57.0,Turkey
+MAINFRN,58.0,UAE
+MAINFRN,59.0,Ukraine
+MAINFRN,60.0,Uruguai
+MAINFRN,61.0,USA
+MAINFRN,62.0,Uzbekistan
+MAINFRN,63.0,Venesuela
+MAINFRN,64.0,China
+MAINFRN,65.0,Nagorno-Karabakh
+MAINFRN,66.0,Sweden
+MAINFRN,67.0,Georgia
+MAINFRN,81.0,Everybody
+MAINFRN,82.0,Except Russia
+MAINFRN,83.0,Foreigners
+MAINFRN,84.0,Our country itself
+MAINFRN,85.0,Globalism
+MAINFRN,86.0,Local government
+MAINENEM,-9.0,Break off
+MAINENEM,-7.0,Legal skip
+MAINENEM,-5.0,No one
+MAINENEM,-3.0,Interviewer error
+MAINENEM,-2.0,Refuse to answer
+MAINENEM,-1.0,Don't know
+MAINENEM,1.0,Abkhazia
+MAINENEM,2.0,Afganistan
+MAINENEM,3.0,Arabia
+MAINENEM,4.0,Argentina
+MAINENEM,5.0,Armenia
+MAINENEM,6.0,Australia
+MAINENEM,7.0,Austria
+MAINENEM,8.0,Azerbaijan
+MAINENEM,9.0,Baltic countries
+MAINENEM,10.0,Belgium
+MAINENEM,11.0,Belarus
+MAINENEM,12.0,Canada
+MAINENEM,13.0,Cyprus
+MAINENEM,14.0,Czech republic
+MAINENEM,15.0,Denmark
+MAINENEM,16.0,Eastern European Countries
+MAINENEM,17.0,Egypt
+MAINENEM,18.0,Estonia
+MAINENEM,19.0,EU
+MAINENEM,20.0,Finland
+MAINENEM,21.0,France
+MAINENEM,22.0,Great Britain
+MAINENEM,23.0,Germany
+MAINENEM,24.0,Greece
+MAINENEM,25.0,Iceland
+MAINENEM,26.0,India
+MAINENEM,27.0,Iran
+MAINENEM,28.0,Iraq
+MAINENEM,29.0,Ireland
+MAINENEM,30.0,Israel
+MAINENEM,31.0,Italy
+MAINENEM,32.0,Japan
+MAINENEM,33.0,Kazakhstan
+MAINENEM,34.0,Korea
+MAINENEM,35.0,Kyrgyztan
+MAINENEM,36.0,Latvia
+MAINENEM,37.0,Lithuania
+MAINENEM,38.0,Luxembourg
+MAINENEM,39.0,Many
+MAINENEM,40.0,Mexico
+MAINENEM,41.0,Moldova
+MAINENEM,42.0,Muslim countries
+MAINENEM,43.0,Neighbouring countries
+MAINENEM,44.0,Netherlands
+MAINENEM,45.0,Norway
+MAINENEM,46.0,Ossetia
+MAINENEM,47.0,Palestine
+MAINENEM,48.0,Poland
+MAINENEM,49.0,Portugal
+MAINENEM,50.0,Romania
+MAINENEM,51.0,Russia
+MAINENEM,52.0,Slovakia
+MAINENEM,53.0,Spain
+MAINENEM,54.0,Sweden
+MAINENEM,55.0,Switzerland
+MAINENEM,56.0,Syria
+MAINENEM,57.0,Turkey
+MAINENEM,58.0,UAE
+MAINENEM,59.0,Ukraine
+MAINENEM,60.0,Uruguai
+MAINENEM,61.0,USA
+MAINENEM,62.0,Uzbekistan
+MAINENEM,63.0,Venesuela
+MAINENEM,64.0,China
+MAINENEM,65.0,Nagorno-Karabakh
+MAINENEM,66.0,Sweden
+MAINENEM,67.0,Georgia
+MAINENEM,81.0,Everybody
+MAINENEM,82.0,Except Russia
+MAINENEM,83.0,Foreigners
+MAINENEM,84.0,Our country itself
+MAINENEM,85.0,Globalism
+MAINENEM,86.0,Local government
+PARTYSUPP,-9.0,Break off
+PARTYSUPP,-7.0,Legal skip
+PARTYSUPP,-5.0,There is no such party
+PARTYSUPP,-3.0,Interviewer error
+PARTYSUPP,-2.0,Refuse to answer
+PARTYSUPP,-1.0,Don't know
+PARTYSUPP,101.0,Civil Contract
+PARTYSUPP,102.0,Mission Party
+PARTYSUPP,103.0,Bright Armenia
+PARTYSUPP,104.0,Prosperous Armenia
+PARTYSUPP,105.0,Republican Party of Armenia
+PARTYSUPP,106.0,Armenian Revolutionary Federation
+PARTYSUPP,107.0,Free Democrats
+PARTYSUPP,108.0,Hanrapetutyun Party
+PARTYSUPP,109.0,Sasna Tsrer Party
+PARTYSUPP,301.0,Georgian Dream
+PARTYSUPP,302.0,United National Movement
+PARTYSUPP,303.0,Movement for Liberty - European Georgia
+PARTYSUPP,304.0,Alliance of Patriots of Georgia
+PARTYSUPP,305.0,Labor Party
+PARTYSUPP,306.0,Democratic Movement – United Georgia
+PARTYSUPP,307.0,Political Platform New Georgia
+PARTYSUPP,308.0,New Political Center – Girchi
+PARTYSUPP,309.0,Free Georgia
+PARTYSUPP,999.0,Other
+WORKTYP,-9.0,Break off
+WORKTYP,-7.0,Legal skip
+WORKTYP,-3.0,Interviewer error
+WORKTYP,-2.0,Refuse to answer
+WORKTYP,-1.0,Don't know
+WORKTYP,1.0,"Run my own business, Self-employed without employees"
+WORKTYP,2.0,"Run my own business, Self-employed with employees"
+WORKTYP,3.0,Employee in a small local business
+WORKTYP,4.0,Employee in a medium sized or big local business
+WORKTYP,5.0,"Employee in a state organization, company, or enterprise"
+WORKTYP,6.0,Employee in a foreign or international organization
+WORKTYP,7.0,Employee in a local or international NGO
+WORKTYP,8.0,Other
+PERSINC,-9.0,Break off
+PERSINC,-7.0,Legal skip
+PERSINC,-3.0,Interviewer error
+PERSINC,-2.0,Refuse to answer
+PERSINC,-1.0,Don't know
+PERSINC,1.0,More than USD 2000
+PERSINC,2.0,USD 1200 - 2000
+PERSINC,3.0,USD 801 – 1200
+PERSINC,4.0,USD 401 – 800
+PERSINC,5.0,USD 251 – 400
+PERSINC,6.0,USD 101 – 250
+PERSINC,7.0,USD 51– 100
+PERSINC,8.0,Up to USD 50
+PERSINC,9.0,0
+EDUYRS,-9.0,Break off
+EDUYRS,-7.0,Legal skip
+EDUYRS,-3.0,Interviewer error
+EDUYRS,-2.0,Refuse to answer
+EDUYRS,-1.0,Don't know
+RFAEDUC,-9.0,Break off
+RFAEDUC,-7.0,Legal skip
+RFAEDUC,-3.0,Interviewer error
+RFAEDUC,-2.0,Refuse to answer
+RFAEDUC,-1.0,Don't know
+RFAEDUC,1.0,No primary education
+RFAEDUC,2.0,Primary education
+RFAEDUC,3.0,Incomplete secondary education
+RFAEDUC,4.0,Competed secondary education
+RFAEDUC,5.0,Secondary technical education
+RFAEDUC,6.0,Incomplete higher education
+RFAEDUC,7.0,Completed higher education
+RFAEDUC,8.0,Post-graduate degree
+RMOEDUC,-9.0,Break off
+RMOEDUC,-7.0,Legal skip
+RMOEDUC,-3.0,Interviewer error
+RMOEDUC,-2.0,Refuse to answer
+RMOEDUC,-1.0,Don't know
+RMOEDUC,1.0,No primary education
+RMOEDUC,2.0,Primary education
+RMOEDUC,3.0,Incomplete secondary education
+RMOEDUC,4.0,Competed secondary education
+RMOEDUC,5.0,Secondary technical education
+RMOEDUC,6.0,Incomplete higher education
+RMOEDUC,7.0,Completed higher education
+RMOEDUC,8.0,Post-graduate degree
+RELIMP,-9.0,Break off
+RELIMP,-7.0,Legal skip
+RELIMP,-3.0,Interviewer error
+RELIMP,-2.0,Refuse to answer
+RELIMP,-1.0,Don't know
+RELIMP,1.0,Not at all important
+RELIMP,2.0,Not very important
+RELIMP,3.0,Rather important
+RELIMP,4.0,Very important
+ECONSTN,-9.0,Break off
+ECONSTN,-7.0,Legal skip
+ECONSTN,-3.0,Interviewer error
+ECONSTN,-2.0,Refuse to answer
+ECONSTN,-1.0,Don't know
+ECONSTN,1.0,Money is not enough for food
+ECONSTN,2.0,"Money is enough for food only, but not for clothes"
+ECONSTN,3.0,"Money is enough for food and clothes, but not enough for expensive durables"
+ECONSTN,4.0,We can afford to buy some expensive durables
+ECONSTN,5.0,We can afford to buy anything we need
+MONYTOT,-9.0,Break off
+MONYTOT,-7.0,Legal skip
+MONYTOT,-3.0,Interviewer error
+MONYTOT,-2.0,Refuse to answer
+MONYTOT,-1.0,Don't know
+MONYTOT,1.0,More than USD 2000
+MONYTOT,2.0,USD 1200 - 2000
+MONYTOT,3.0,USD 801 – 1200
+MONYTOT,4.0,USD 401 – 800
+MONYTOT,5.0,USD 251 – 400
+MONYTOT,6.0,USD 101 – 250
+MONYTOT,7.0,USD 51– 100
+MONYTOT,8.0,Up to USD 50
+MONYTOT,9.0,0
