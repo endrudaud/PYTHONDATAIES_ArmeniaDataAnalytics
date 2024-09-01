@@ -1,0 +1,86 @@
+# Project Overview
+
+In our project, we aimed to explore the factors influencing the perceptions of the Armenian population on four key topics:
+
+- Whether the dissolution of the Soviet Union was perceived as a good or bad thing.
+- Who is perceived as the main enemy of Armenia.
+- Who is perceived as the main friend of Armenia.
+- Opinions regarding the European Union (EU).
+
+To investigate these topics, we analyzed data from the 2019 Caucasus Barometer, which conducts annual surveys on social and political matters in Armenia and Georgia. We chose the 2019 data as it provides insights from a pivotal period: one year before the 2020 war with Azerbaijan and one year after the Armenian revolution. This context allows us to assess public sentiment during a time of significant change in Armenia.
+
+Our analysis focused on how various independent variables—such as respondents' age, income, education level, and political affiliation or sympathy towards liberal or conservative parties—influence these perceptions. For each of the four topics, we generated specific hypotheses that we aimed to test and potentially reject, thereby gaining a deeper understanding of the social dynamics shaping public opinion in Armenia during this period.
+
+# Hypotheses and Results
+
+## 1. Perception of the Dissolution of the Soviet Union
+
+**Hypothesis 1:**  
+Respondents who support nationalist or conservative parties are more likely to view the dissolution of the Soviet Union as a bad thing.  
+**Null Hypothesis (H0):**  
+There is no significant difference in the perception of the dissolution of the Soviet Union between respondents who support nationalist or conservative parties and those who do not.  
+**Result:**  
+Fail to reject the null hypothesis.
+
+**Hypothesis 2:**  
+Respondents with higher personal income are more likely to view the dissolution of the Soviet Union as a good thing.  
+**Null Hypothesis (H0):**  
+Personal income level does not significantly influence the perception of the dissolution of the Soviet Union.  
+**Result:**  
+Fail to reject the null hypothesis.
+
+**Hypothesis 3:**  
+Respondents with more years of education are more likely to view the dissolution of the Soviet Union as a good thing.  
+**Null Hypothesis (H0):**  
+Education level does not significantly influence the perception of the dissolution of the Soviet Union.  
+**Result:**  
+Null hypothesis rejected.
+
+**Hypothesis 4:**  
+Older respondents are more likely to view the dissolution of the Soviet Union as a bad thing compared to younger respondents.  
+**Null Hypothesis (H0):**  
+Age does not significantly influence the perception of the dissolution of the Soviet Union.  
+**Result:**  
+Null hypothesis rejected.
+
+## 2. Perception of Armenia's Main Enemy
+
+**Hypothesis 1:**  
+Respondents who support EU integration are more likely to perceive Russia as Armenia's main enemy.  
+**Null Hypothesis (H0):**  
+Support for EU integration does not significantly influence the perception of Russia as Armenia's main enemy.  
+**Result:**  
+Null hypothesis rejected.
+
+**Hypothesis 2:**  
+Respondents who consider Russia their main ally are more likely to perceive Turkey or Azerbaijan as Armenia's main enemy.  
+**Null Hypothesis (H0):**  
+Perception of Russia as a main ally does not significantly influence the perception of Turkey or Azerbaijan as Armenia's main enemy.  
+**Result:**  
+Null hypothesis confirmed for Azerbaijan, rejected for Turkey.
+
+**Hypothesis 3:**  
+Respondents who support nationalist or conservative parties are more likely to perceive Turkey as Armenia's main enemy.  
+**Null Hypothesis (H0):**  
+Support for nationalist or conservative parties does not significantly influence the perception of Turkey as Armenia's main enemy.  
+**Result:**  
+Fail to reject the null hypothesis.
+
+**Hypothesis 4:**  
+Respondents with more years of education are more likely to perceive Russia as Armenia's main enemy.  
+**Null Hypothesis (H0):**  
+Education level does not significantly influence the perception of Russia as Armenia's main enemy.  
+**Result:**  
+Fail to reject the null hypothesis.
+
+## 3. Perception of Armenia's Main Friend
+
+**Hypothesis 1:**  
+Older respondents are more likely to perceive Russia as Armenia's main friend compared to younger respondents.  
+**Null Hypothesis (H0):**  
+Age does not significantly influence the perception of Russia as Armenia's main friend.  
+**Result:**  
+Fail to reject the null hypothesis.
+
+**Hypothesis 2:**  
+Respondents from higher-income families are more likely to perceive the European Union (EU)

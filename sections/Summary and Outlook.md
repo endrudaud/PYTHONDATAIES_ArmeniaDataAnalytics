@@ -1,0 +1,5 @@
+# Summary and Future Outlook
+
+Our findings indicate that traditional predictors such as political affiliation and income levels have limited influence on certain perceptions within the Armenian population, particularly regarding the dissolution of the Soviet Union and views on the EU. In contrast, education and age were found to significantly influence opinions on the dissolution, reflecting broader societal shifts.
+
+To sum up, we want to note again that the data was collected in 2019, prior to the Second Nagorno-Karabakh War and the subsequent ethnic cleansing and mass migration of Armenians from Nagorno-Karabakh, events which have significantly impacted public opinion. Preliminary reports and limited surveys suggest a dramatic shift in perceptions. A significant portion of the population now view Russia as a major threat and France as Armenia's main ally. Comprehensive data from the latest Caucasus Barometer survey, expected next year, will provide data for 2024, and we plan to compare these findings to our current analysis to understand how recent events have reshaped Armenian public opinion.
