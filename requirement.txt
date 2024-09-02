@@ -1,0 +1,10 @@
+### `requirements.txt` File:
+
+```plaintext
+pandas
+pyreadstat
+numpy
+seaborn
+matplotlib
+statsmodels
+ipywidgets
